@@ -1,0 +1,757 @@
+{
+    "loai": [
+        {
+            "id": "2",
+            "ten_loai": "Nike",
+            "slug": "nike",
+            "thu_tu": "2",
+            "hinh": "images/product/category/1699345637-nike-1684311439519.webp",
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:54:57"
+        },
+        {
+            "id": "3",
+            "ten_loai": "Adidas",
+            "slug": "adidas",
+            "thu_tu": "3",
+            "hinh": "images/product/category/1699345658-B.webp",
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:54:57"
+        },
+        {
+            "id": "4",
+            "ten_loai": "New Balance",
+            "slug": "new-balance",
+            "thu_tu": "4",
+            "hinh": "images/product/category/1699345752-nb-1684311439515.webp",
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:54:57"
+        },
+        {
+            "id": "5",
+            "ten_loai": "Puma",
+            "slug": "puma",
+            "thu_tu": "5",
+            "hinh": "images/product/category/1699345766-puma-1684311439523.webp",
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:54:57"
+        },
+        {
+            "id": "7",
+            "ten_loai": "Vớ",
+            "slug": "vo",
+            "thu_tu": "7",
+            "hinh": null,
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:54:57"
+        },
+        {
+            "id": "8",
+            "ten_loai": "Dây giày",
+            "slug": "day-giay",
+            "thu_tu": "8",
+            "hinh": null,
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:54:57"
+        },
+        {
+            "id": "9",
+            "ten_loai": "Vệ sinh giày",
+            "slug": "ve-sinh-giay",
+            "thu_tu": "9",
+            "hinh": null,
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:54:57"
+        }
+    ],
+    "loai_bai_viet": [
+        {
+            "id": "1",
+            "ten": "Mẹo vặt",
+            "slug": "meo-vat",
+            "thu_tu": "1",
+            "hinh": null,
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:55:04"
+        },
+        {
+            "id": "2",
+            "ten": "Tin tức",
+            "slug": "tin-tuc",
+            "thu_tu": "2",
+            "hinh": null,
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:55:04"
+        },
+        {
+            "id": "3",
+            "ten": "Tư vấn",
+            "slug": "tu-van",
+            "thu_tu": "3",
+            "hinh": null,
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:55:04"
+        }
+    ],
+    "san_pham": [
+        {
+            "id": 1,
+            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+            "price": 109.95,
+            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 120
+            }
+        },
+        {
+            "id": 2,
+            "title": "Mens Casual Premium Slim Fit T-Shirts ",
+            "price": 22.3,
+            "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
+            "rating": {
+                "rate": 4.1,
+                "count": 259
+            }
+        },
+        {
+            "id": 3,
+            "title": "Mens Cotton Jacket",
+            "price": 55.99,
+            "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 500
+            }
+        },
+        {
+            "id": 4,
+            "title": "Mens Casual Slim Fit",
+            "price": 15.99,
+            "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
+            "category": "men's clothing",
+            "image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
+            "rating": {
+                "rate": 2.1,
+                "count": 430
+            }
+        },
+        {
+            "id": 5,
+            "title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
+            "price": 695,
+            "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 4.6,
+                "count": 400
+            }
+        },
+        {
+            "id": 6,
+            "title": "Solid Gold Petite Micropave ",
+            "price": 168,
+            "description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 3.9,
+                "count": 70
+            }
+        },
+        {
+            "id": 7,
+            "title": "White Gold Plated Princess",
+            "price": 9.99,
+            "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 3,
+                "count": 400
+            }
+        },
+        {
+            "id": 8,
+            "title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
+            "price": 10.99,
+            "description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
+            "category": "jewelery",
+            "image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
+            "rating": {
+                "rate": 1.9,
+                "count": 100
+            }
+        },
+        {
+            "id": 9,
+            "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
+            "price": 64,
+            "description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
+            "rating": {
+                "rate": 3.3,
+                "count": 203
+            }
+        },
+        {
+            "id": 10,
+            "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+            "price": 109,
+            "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 470
+            }
+        },
+        {
+            "id": 11,
+            "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+            "price": 109,
+            "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 319
+            }
+        },
+        {
+            "id": 12,
+            "title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+            "price": 114,
+            "description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 4.8,
+                "count": 400
+            }
+        },
+        {
+            "id": 13,
+            "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+            "price": 599,
+            "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 250
+            }
+        },
+        {
+            "id": 14,
+            "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+            "price": 999.99,
+            "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+            "category": "electronics",
+            "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+            "rating": {
+                "rate": 2.2,
+                "count": 140
+            }
+        },
+        {
+            "id": 15,
+            "title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
+            "price": 56.99,
+            "description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
+            "rating": {
+                "rate": 2.6,
+                "count": 235
+            }
+        },
+        {
+            "id": 16,
+            "title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
+            "price": 29.95,
+            "description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
+            "rating": {
+                "rate": 2.9,
+                "count": 340
+            }
+        },
+        {
+            "id": 17,
+            "title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
+            "price": 39.99,
+            "description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
+            "rating": {
+                "rate": 3.8,
+                "count": 679
+            }
+        },
+        {
+            "id": 18,
+            "title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
+            "price": 9.85,
+            "description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
+            "rating": {
+                "rate": 4.7,
+                "count": 130
+            }
+        },
+        {
+            "id": 19,
+            "title": "Opna Women's Short Sleeve Moisture",
+            "price": 7.95,
+            "description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
+            "rating": {
+                "rate": 4.5,
+                "count": 146
+            }
+        },
+        {
+            "id": 20,
+            "title": "DANVOUY Womens T Shirt Casual Cotton Short",
+            "price": 12.99,
+            "description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
+            "category": "women's clothing",
+            "image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
+            "rating": {
+                "rate": 3.6,
+                "count": 145
+            }
+        }
+    ],
+    "binh_luan": [
+        {
+            "id": "1",
+            "noi_dung": "Sản phẩm còn hàng không ạ?",
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:54:57",
+            "id_sp": "1",
+            "ho_ten": "Tấn Duy",
+            "email": "ntanduy2612@gmail.com"
+        },
+        {
+            "id": "2",
+            "noi_dung": "Giày đẹp lắm mọi người ơi, mình mở hộp ra mình rất bất ngờ với em giày này, vừa xinh lại còn đi êm chân, màu giày này ở ngoài nhìn sẽ đẹp hơn ở trong hình nha, giày cũng không bị lộ phần keo, đường chỉ may chắc chắn, giá lại còn hợp lý nữa, nói chung em này quá xuất sắc không chê vào đâu được, em này 10 điểm không có nhưng mọi người ạ.",
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:54:57",
+            "id_sp": "1",
+            "id_user": null,
+            "ho_ten": "Văn Tuấn",
+            "email": "anhvanh71@gmail.com"
+        },
+        {
+            "id": "3",
+            "noi_dung": "Giày được đựng trong hộp và có xốp để không làm mất form khi ship hàng. Đi thoải mái mềm mại lắm luôn. Đường kim mũi chỉ cũng cẩn thận.",
+            "an_hien": "1",
+            "ngay": "2023-11-07 09:54:57",
+            "id_sp": "1",
+            "id_user": null,
+            "ho_ten": "Tâm",
+            "email": "tamttmps25065@fpt.edu.vn"
+        },
+        {
+            "id": "6",
+            "noi_dung": "Giày xấu vậy",
+            "an_hien": "1",
+            "ngay": "2023-11-13 12:43:16",
+            "id_sp": "129",
+            "id_user": null,
+            "ho_ten": "Thuan",
+            "email": "hothuan@gmail.com"
+        },
+        {
+            "id": "8",
+            "noi_dung": "Mình đã mua và trải nghiệm dịch vụ của shop. Mình thật sự rất hài lòng, cskh nhắn tin nhanh trả lời. Đặc biệt là sản phẩm rất chất lượng và tốt nha mọi người. Sẽ tiếp tục ủng hộ shop và giới thiệu cho người thân!",
+            "an_hien": "1",
+            "ngay": "2023-11-24 23:24:30",
+            "id_sp": "128",
+            "id_user": null,
+            "ho_ten": "Văn Tuấn",
+            "email": "anhvanh71@gmail.com"
+        },
+        {
+            "id": "9",
+            "noi_dung": "Shop này bán giày đẹp và chất lượng, giá cả hợp lý, giao hàng nhanh",
+            "an_hien": "1",
+            "ngay": "2023-11-30 13:38:52",
+            "id_sp": "9",
+            "id_user": null,
+            "ho_ten": "Yên My",
+            "email": "yenmydoan@gmail.com"
+        },
+        {
+            "id": "10",
+            "noi_dung": "Tôi đã mua một đôi giày sneaker tại Sneaker Square và không thể tin được vào chất lượng của chúng! Chất liệu đẹp và bền, thiết kế hiện đại và phong cách. Mọi người đều hỏi về nó ở mọi nơi. Đây thực sự là nơi để phát hiện ra đẳng cấp trong thế giới sneaker!",
+            "an_hien": "1",
+            "ngay": "2023-11-30 13:44:29",
+            "id_sp": "107",
+            "id_user": null,
+            "ho_ten": "Nguyễn Tuấn Kiệt",
+            "email": "kietntps24637@fpt.edu.vn"
+        },
+        {
+            "id": "11",
+            "noi_dung": "Nếu bạn đang tìm kiếm đôi giày mang lại sự thoải mái của thể thao nhưng vẫn giữ được phong cách thời trang, hãy ghé Sneaker Square. Đôi giày của tôi không chỉ đẹp mắt mà còn rất thoải mái, giúp tôi tự tin mỗi khi đi chơi.",
+            "an_hien": "1",
+            "ngay": "2023-11-30 13:47:03",
+            "id_sp": "129",
+            "id_user": null,
+            "ho_ten": "Nguyễn Phương Nam",
+            "email": "namnpps24700@fpt.edu.vn"
+        },
+        {
+            "id": "12",
+            "noi_dung": "Tôi đã khám phá Sneaker Square và không thể tin vào độ đa dạng của sự lựa chọn ở đây. Có mọi thứ từ các thương hiệu nổi tiếng đến những kiểu dáng độc đáo. Tôi tìm thấy đôi giày hoàn hảo cho mọi dịp.",
+            "an_hien": "1",
+            "ngay": "2023-11-30 13:52:53",
+            "id_sp": "129",
+            "id_user": null,
+            "ho_ten": "Nam Phương",
+            "email": "phuongnamn@gmail.com"
+        },
+        {
+            "id": "13",
+            "noi_dung": "Giày này còn màu khác không ạ?",
+            "an_hien": "1",
+            "ngay": "2023-12-01 17:14:47",
+            "id_sp": "1",
+            "id_user": null,
+            "ho_ten": "Trần Thị Mỹ Tâm",
+            "email": "tranthimytam0721@gmail.com"
+        },
+        {
+            "id": "15",
+            "noi_dung": "Đôi giày này thực sự làm tôi hài lòng với chất lượng và thiết kế độc đáo. Đế giày êm ái, đường may tỉ mỉ, và chất liệu rất bền.",
+            "an_hien": "1",
+            "ngay": "2023-12-03 10:54:44",
+            "id_sp": "113",
+            "id_user": null,
+            "ho_ten": "Ngọc My",
+            "email": "ngocmynguyen@gmail.com"
+        },
+        {
+            "id": "16",
+            "noi_dung": "Đây chính là nơi mà bạn có thể tìm thấy những bộ sưu tập giày vô cùng đa dạng và phù hợp với mọi gu thời trang. Không ngạc nhiên khi Sneaker Square trở thành điểm đến hàng đầu của tín đồ giày.",
+            "an_hien": "1",
+            "ngay": "2023-12-03 17:29:34",
+            "id_sp": "1",
+            "ho_ten": "Hồ Viết Thuận",
+            "email": "hothuan@gmail.com"
+        },
+        {
+            "id": "17",
+            "noi_dung": "Mua sắm giày tại Sneaker Square thực sự là một hành trình đáng nhớ. Tôi đã dành nhiều thời gian để tìm kiếm những đôi giày phản ánh phong cách cá nhân của mình, và khi bước vào Sneaker Square, tôi đã hoàn toàn bị cuốn hút bởi sự đa dạng và chất lượng của sản phẩm.Điều đặc biệt ấn tượng là sự lựa chọn vô cùng phong phú của các mẫu giày từ các thương hiệu hàng đầu. Từ những đôi giày sneaker phong cách đến những mẫu thể thao chuyên nghiệp, mỗi sản phẩm đều thể hiện sự tinh tế trong thiết kế và chất liệu cao cấp.Không chỉ là việc mua sắm, mà Sneaker Square còn là một trải nghiệm văn hóa thú vị. Nhân viên tại đây luôn nhiệt tình và am hiểu về sản phẩm, họ không chỉ giúp tôi lựa chọn đôi giày phù hợp mà còn chia sẻ về các xu hướng thời trang và cách mix đồ để tạo nên phong cách riêng.Ngoài ra, chất lượng dịch vụ tại Sneaker Square thực sự đáng khen ngợi. Tôi đã có những trải nghiệm mua sắm trực tuyến thông qua hệ thống của họ, và mọi thứ đều diễn ra một cách trơn tru và tiện lợi từ quá trình đặt hàng cho đến giao nhận.Đôi giày mà tôi đã chọn được không chỉ là một sản phẩm thời trang, mà còn là một biểu tượng cho sự tự tin và phong cách cá nhân của mình. Với Sneaker Square, tôi hoàn toàn tin tưởng và sẽ tiếp tục trở lại để khám phá thêm nhiều sản phẩm mới trong tương lai. Cảm ơn Sneaker Square vì những trải nghiệm tuyệt vời!",
+            "an_hien": "1",
+            "ngay": "2023-12-03 17:30:57",
+            "id_sp": "1",
+            "id_user": null,
+            "ho_ten": "Anh Long",
+            "email": "long@gmail.com"
+        },
+        {
+            "id": "18",
+            "noi_dung": "Mỗi lần bước vào Sneaker Square là một cuộc phiêu lưu mới đầy thú vị trong thế giới của giày dép. Tôi đã từng khám phá nhiều cửa hàng giày, nhưng không nơi nào có thể sánh kịp với sự đa dạng và chất lượng sản phẩm như ở đây.Sự lựa chọn vô cùng phong phú từ những đôi sneaker casual đến những đôi boots cá tính, tất cả đều phản ánh sự tinh tế trong thiết kế và chất liệu tốt. Việc tìm kiếm đôi giày phù hợp với phong cách cá nhân không còn là vấn đề, vì Sneaker Square có tất cả.",
+            "an_hien": "1",
+            "ngay": "2023-12-03 17:34:59",
+            "id_sp": "1",
+            "id_user": null,
+            "ho_ten": "Cô Hai Báo",
+            "email": "hai@gmail.com"
+        },
+        {
+            "id": "19",
+            "noi_dung": "Không chỉ là những sản phẩm đẹp, mà còn là sự tận tâm của nhân viên. Họ không chỉ là những người bán hàng mà còn là những người bạn tư vấn thời trang đáng tin cậy. Họ luôn sẵn lòng chia sẻ kiến thức và kinh nghiệm để giúp tôi chọn được đôi giày ưng ý nhất.Ngoài ra, trải nghiệm mua sắm tại Sneaker Square cũng rất thuận lợi. Tôi có thể chọn mua trực tuyến và nhận được sản phẩm một cách nhanh chóng và tiện lợi.",
+            "an_hien": "1",
+            "ngay": "2023-12-03 17:37:04",
+            "id_sp": "3",
+            "id_user": null,
+            "ho_ten": "Lê Anh Nuôi",
+            "email": "nuoi@gmail.com"
+        },
+        {
+            "id": "20",
+            "noi_dung": "Đôi giày mà tôi đã chọn từ Sneaker Square không chỉ là một món đồ thời trang, mà còn là một phần của phong cách sống của tôi. Sự tự tin và thoải mái mỗi khi mang chúng là điều không thể phủ nhận. Và với sự đa dạng và chất lượng ấy, tôi sẽ luôn ủng hộ Sneaker Square.",
+            "an_hien": "1",
+            "ngay": "2023-12-03 17:37:42",
+            "id_sp": "3",
+            "id_user": null,
+            "ho_ten": "Tuấn Anh",
+            "email": "anh@gmail.com"
+        },
+        {
+            "id": "21",
+            "noi_dung": "Sneaker Square không chỉ đơn thuần là một cửa hàng giày, mà là một cộng đồng, nơi bạn có thể tìm thấy những đam mê và phong cách thời trang đích thực. Đây không chỉ là nơi để mua sắm, mà còn là nơi để trải nghiệm, cảm nhận và kết nối với cộng đồng yêu thích giày dép.",
+            "an_hien": "1",
+            "ngay": "2023-12-03 17:39:12",
+            "id_sp": "3",
+            "id_user": null,
+            "ho_ten": "Đạt Trần",
+            "email": "dat@gmail.com"
+        }
+    ],
+    "bai_viet": [
+        {
+            "id": "1",
+            "tieu_de": "Cách bảo quản giày",
+            "slug": "cach-bao-quan-giay.html",
+            "mo_ta": "Sneaker đã trở thành một trong những xu hướng thời trang được ưa chuộng trong những năm gần đây và vẫn đang tiếp tục  phát triển mạnh mẽ. Chắc hẳn với những tín đồ mộ điệu sneaker thì mỗi vết dơ, ẩm mốc, hay vết bạc màu cũng chính là kẻ thù số một. Nếu bạn vẫn đang loay hoay  không biết cách bảo quản giày sneaker thế nào cho đúng thì hãy bỏ túi một số tips dưới đây nhé!",
+            "noi_dung": "Cách bảo quản giày Không thể phủ nhận, Sneaker đã trở thành một trong những xu hướng thời trang được ưa chuộng trong những năm gần đây và vẫn đang tiếp tục phát triển mạnh mẽ. Chắc hẳn với những tín đồ mộ điệu sneaker thì mỗi vết dơ, ẩm mốc, hay vết bạc màu cũng chính là kẻ thù số một. Nếu bạn vẫn đang loay hoay không biết cách bảo quản giày sneaker thế nào cho đúng thì hãy bỏ túi một số tips dưới đây nhé! Trong bài viết ngày hôm nay, Sneaker Square sẽ gợi ý cho bạn các cách bảo quản giày sneaker đơn giản và hiệu quả nhất tại nhà.   Dùng baking soda để vệ sinh giày sneaker Bạn có thể kết hợp trộn baking soda với giấm ăn theo tỉ lệ 2:3 tạo thành dung dịch hòa tan. Tiếp đến bạn chỉ cần xịt trực tiếp hỗn hợp dung dịch này lên giày và dùng bàn chải mềm chà nhẹ nhàng đến khi toàn bộ vết bẩn biến mất. Cách vệ sinh này còn giúp khử mùi hôi, vết bẩn và trả lại màu nguyên thủy cho những đôi giày sneaker, đặc biệt là sneaker màu trắng.  Thường xuyên lau sạch giày trắng, giày sneaker, giày thể thao  Việc cất giữ giày dép khi chưa loại bỏ hoàn toàn đất cát, bụi bẩn và các loại chất bẩn khác bám trên giày sẽ làm giảm chất lượng của đôi giày theo thời gian. Để bảo quản giày trắng, giày thể thao và giày sneaker hiệu quả nhất, bạn cần chú ý vệ sinh giày định kỳ và cần cẩn trọng một số lưu ý khi vệ sinh và bảo quản. Một số lưu ý khi vệ sinh giày da, giày vải: Làm sạch giày da thuộc hoặc da lộn bằng cách sử dụng vật liệu làm sạch (Kem đánh răng, chanh, dung dịch chuyên dụng,…) cùng một chiếc bàn chải mềm, chà nhẹ lên vết bẩn, không gây trầy xước để loại sạch vết bẩn. Sử dụng dung dịch vệ sinh giày chuyên dụng sẽ giúp bảo quản giày tốt hơn. Không xả trực tiếp giày dưới nước, và tránh ánh nắng trực tiếp từ mặt trời. Phân loại giày theo mùa và mục đích sử dụng Nếu như trước đây bạn luôn xếp những đôi giày chung với nhau, tạo thành tủ giày lộn xộn để đến lúc tìm cần phải lục tung mọi thứ lên thì đã đến lúc bạn cần thay đổi. Phân loại giày dép theo mùa và theo mục đích sử dụng sẽ giúp tủ giày của bạn trở nên ngăn nắp và việc lựa chọn giày mỗi dịp ra ngoài của bạn sẽ trở lên thật sự dễ dàng. Cất giữ các loại giày cao gót chung với nhau. Bảo quản giày sneaker theo hãng, ví dụ xếp các loại giày Adidas với nhau, và các loại giày Nike với nhau Cất giữ dép xỏ ngón, sandal, và các loại giày dép mùa hè khác chung với nhau. Sử dụng phấn rôm em bé để bảo quản giày Sneaker dễ dàng         Các tín đồ sneaker sẽ cực kỳ khổ sở với việc chân thường xuyên đổ mồ hôi nên cho dù đi tất mà chân vẫn thấy khó chịu, với tình trạng trên, bạn hãy sử dụng phấn rôm giúp giày luôn chân khô thoáng và giảm mùi hiệu quả khi mang giày. Vì vậy, phấn rôm chính là mẹo cực hay giúp bạn có những trải nghiệm thoải mái với đôi giày của mình. Cách bảo quản giày không bị mốc bằng hộp đựng         Bạn chắc chắn không thể bỏ qua việc bảo quản giày sneaker trong hộp đựng chuyên dụng. Việc làm này ngoài việc giúp không gian trong nhà trở nên gọn gàng và sạch sẽ hơn, mà còn giúp bảo quản giày tránh khỏi những bụi bẩn. Những hộp giày được xếp cẩn thận còn giúp bạn tạo nên một góc sưu tập giày đầy tính nghệ thuật và thẩm mỹ nữa đó. Lưu ý, bạn nên đặt những gói hút ẩm hoặc giấy hút ẩm vào bên trong giày, sau đó cho vào hộp. Sử dụng miếng lót khử mùi và thay thường xuyên         Dòng giày sneaker chính hãng có đặc trưng là bạn sẽ không thể tháo miếng lót giày ra. Thế nên, bạn nên mua một miếng lót khử mùi hiện có mặt rất nhiều trên thị trường để loại bỏ mùi phát ra từ giày, giúp bạn tự tin hơn khi xuống phố, hẹn hò, sự kiện,…  Dùng giấy báo trong giày để bảo quản form giày         Bạn nên sử dụng giấy báo cũ đặt vào trong đôi giày, đặc biệt là những đôi giày lâu ngày không dùng đến nhằm giữ cho form giày không bị biến dạng. Ngoài ra, giấy báo còn giúp hút ẩm và mùi hôi bên trong giày cực kỳ hiệu quả. Bạn nên ghi nhớ vfa thực hiện cách cách này để bảo quản form cho đôi giày của bạn nhé!  Bảo quản giày trắng sao cho hiệu quả nhất Sử dụng bình xịt Nano          Bạn nên tìm mua những chai hóa chất chống bám bẩn và chống thấm nước (thông thường ở dạng xịt), nó sẽ giúp đôi giày của bạn sạch hơn nhiều. Chất liệu giày khác nhau sẽ có những dạng hóa chất khác nhau. Đừng quên sử dụng bình xịt trên cả đế giày và phần dây buộc để làm sạch chúng nhé.   Những hóa chất này chỉ có hiệu quả trong thời gian một vài tuần. Nên hãy chú ý sử dụng định kỳ hoặc vệ sinh giày theo các cách khác để đảm bảo giày của bạn luôn được bảo vệ nhé! Hạn chế mang giày trắng khi trời mưa         Mưa bẩn là khắc tinh số 1 của giày trắng, nước và bùn đất có thể hủy hoại đôi giày trắng của bạn. Vì vậy, bạn nên chọn những hôm khô ráo để sử dụng những đôi giày trắng nhé. Đặc biệt là bạn nên chuẩn bị sẵn sàng áo mưa cho đôi giày trong xe, trong túi để có thể sử dụng ngay mọi lúc, mọi nơi mỗi khi trời trở mưa. Bảo quản giày Sneaker ở những nơi khô ráo, thoáng mát        Để giữ giày luôn sáng bóng mà không dính bẩn nhất thì bạn nên đặt chúng ở nơi thông thoáng, có thể đặt chúng trên kệ hoặc hộp đựng giày thông dụng. Bởi cất lượng sneaker sẽ dễ giảm hơn nếu bạn để chúng ở những nơi ẩm ướt. Đặc biệt là tránh đặt chúng dưới nắng mặt trời chói gắt vì như thế form giày sẽ dễ bị biến dạng.",
+            "an_hien": "1",
+            "hinh": "images/blog/cach-bao-quan-giay.jpg",
+            "luot_xem": "377",
+            "hot": "1",
+            "ngay": "2023-11-07",
+            "id_loai": "1"
+        },
+        {
+            "id": "2",
+            "tieu_de": "Air Jordan 3 Lịch sử của thiết kế đã cứu rỗi Nike",
+            "slug": "air-jordan-3-lich-su-cua-thiet-ke-da-cuu-roi-nike.html",
+            "mo_ta": "Sneaker đã trở thành một trong những xu hướng thời trang được ưa chuộng trong những năm gần đây và vẫn đang tiếp tục phát triển mạnh mẽ. Chắc hẳn với những tín đồ mộ điệu sneaker thì mỗi vết dơ, ẩm mốc, hay vết bạc màu cũng chính là kẻ thù số một. Nếu bạn vẫn đang loay hoay không biết cách bảo quản giày sneaker thế nào cho đúng thì hãy bỏ túi một số tips dưới đây nhé!",
+            "noi_dung": "<p>Air Jordan 3 &ndash; Lịch sử của thiết kế đ&atilde; cứu rỗi Nike Một trong những mẫu Air Jordan phổ biến nhất từ ​​trước đến nay, Air Jordan 3 đ&atilde; thiết lập một ti&ecirc;u chuẩn mới về thời trang v&agrave; c&ocirc;ng nghệ cho gi&agrave;y Jordan. Giống như Air Jordan 2, Air Jordan 3 l&agrave; sự pha trộn ho&agrave;n hảo giữa sự tinh tế v&agrave; vẻ phong c&aacute;ch m&agrave; một đ&ocirc;i sneaker cần c&oacute;. V&agrave; sau đ&acirc;y, h&atilde;y c&ugrave;ng&nbsp;Sneaker Daily&nbsp;t&igrave;m hiểu về lịch sử của Air Jordan 3 &ndash; một trong những thiết kế đ&atilde; l&agrave;m n&ecirc;n thương hiệu Nike như ng&agrave;y nay. Lịch sử Air Jordan 3&nbsp; Khi mới ra mắt, Air Jordan 3 đ&atilde; được lược bỏ chi tiết dấu Swoosh lớn dọc theo sườn. Thay v&agrave;o đ&oacute;, chỉ c&oacute; logo Nike Air ở mặt sau, c&ugrave;ng với ba yếu tố mới quan trọng: Logo Jumpman mới tr&ecirc;n lưỡi g&agrave;, họa tiết elephant print tr&ecirc;n upper v&agrave; một bộ đế Visible Air ở g&oacute;t ch&acirc;n. Air Jordan 3 cũng đi k&egrave;m với mức gi&aacute; b&aacute;n lẻ l&agrave; 100 đ&ocirc; la khi mới ra mắt tương tự như Air Jordan 2. Tại Nike năm 1987, d&ugrave; thế n&agrave;o đi nữa, th&igrave; cũng đ&atilde; c&oacute; những rắc rối xảy ra với thương hiệu đến từ nước Mỹ n&agrave;y. Peter Moore, nh&agrave; thiết kế của hai phi&ecirc;n bản Air Jordan đầu ti&ecirc;n v&agrave; gi&aacute;m đốc marketing &ndash; Rob Strasser đều rời c&ocirc;ng ty trong v&ograve;ng một tuần để x&acirc;y dựng thương hiệu Van Grack của ri&ecirc;ng họ. Điều n&agrave;y l&agrave;m cho mọi thứ trở n&ecirc;n phức tạp hơn rất nhiều đối với Nike v&agrave; l&agrave;m chậm qu&aacute; tr&igrave;nh tạo ra Air Jordan 3. V&agrave; tr&ecirc;n hết, hợp đồng ban đầu của Michael Jordan với thương hiệu cũng sắp đến l&uacute;c hết hạn. Ngo&agrave;i ra, một th&ocirc;ng tin kh&aacute;c cũng khiến Nike lo lắng kh&ocirc;ng k&eacute;m: Moore v&agrave; Strasser đ&atilde; cố gắng để l&ocirc;i k&eacute;o Jordan đi c&ugrave;ng, họ n&oacute;i với anh ta rằng anh ta c&oacute; thể tạo ra đế chế của ri&ecirc;ng m&igrave;nh với họ thay v&igrave; dựa v&agrave;o Nike. V&agrave; thật may mắn cho Nike, một nh&agrave; thiết kế trẻ t&ecirc;n l&agrave; Tinker Hatfield đ&atilde; &ldquo;l&ecirc;n tiếng&rdquo; khi c&ocirc;ng ty n&agrave;y cần anh nhất. Cựu chuy&ecirc;n gia kiến ​​tr&uacute;c v&agrave; kiến ​​tr&uacute;c sư của Đại học Oregon đ&atilde; c&oacute; một v&agrave;i bản hit đầu ti&ecirc;n với The Swoosh, d&ograve;ng gi&agrave;y chạy Air Max 1 v&agrave; Air Trainer 1. Theo đ&oacute;, cả hai đ&ocirc;i gi&agrave;y n&agrave;y đều sở hữu thiết kế mang t&iacute;nh c&aacute;ch mạng, th&agrave;nh c&ocirc;ng của ch&uacute;ng đ&atilde; gi&uacute;p cho Hatfield nhận được sự tin tưởng của Nike v&agrave; để anh thiết kế Air Jordan 3. &ldquo;Thời điểm đ&oacute; chỉ c&ograve;n khoảng 6 th&aacute;ng trước khi ch&uacute;ng t&ocirc;i phải đưa ra sản phẩm cho Michael&rdquo;&nbsp;&ndash; Hatfield kể lại trong loạt phim t&agrave;i liệu Abstract: The Art of Design.&nbsp;&ldquo;V&igrave; vậy, mọi thứ đ&atilde; phải diễn ra rất nhanh ch&oacute;ng, kh&ocirc;ng ngủ trong nhiều tuần v&agrave; nhiều th&aacute;ng, di chuyển qua lại ch&acirc;u &Aacute; với tất cả c&aacute;c nh&agrave; ph&aacute;t triển v&agrave; l&agrave;m ra một bản ph&aacute;c thảo&rdquo; Hatfield thực sự muốn nghe những g&igrave; c&aacute;c vận động vi&ecirc;n n&oacute;i về đ&ocirc;i gi&agrave;y thể thao họ đang đi, một đặc điểm m&agrave; &ocirc;ng nhận được từ cựu huấn luyện vi&ecirc;n Oregon v&agrave; đồng s&aacute;ng lập Nike, Bill Bowerman. Hatfield đ&atilde; trao đổi với Jordan về những g&igrave; ng&ocirc;i sao Chicago Bulls đang t&igrave;m kiếm trong một đ&ocirc;i gi&agrave;y: thứ g&igrave; đ&oacute; c&oacute; thiết kế cổ thấp hơn thay v&igrave; đ&ocirc;i gi&agrave;y si&ecirc;u cao m&agrave; mọi người kh&aacute;c đang mang; một c&aacute;i g&igrave; đ&oacute; thoải m&aacute;i m&agrave; c&oacute; thể cảm nhận được ngay với lớp da mềm mại, dẻo dai; một c&aacute;i g&igrave; đ&oacute; với &aacute;nh đ&egrave;n flash v&agrave; sự tinh tế. Hatfield lắng nghe, v&agrave; khi thời gian thuyết tr&igrave;nh đến, anh ấy đ&atilde; sẵn s&agrave;ng. Nhưng bản th&acirc;n b&agrave;i thuyết tr&igrave;nh đ&atilde; diễn ra kh&ocirc;ng đơn giản. Hatfield v&agrave; chủ tịch cũng như người s&aacute;ng lập ra Nike &ndash; Phil Knight đ&atilde; bay tới California để tặng chiếc gi&agrave;y mới cho Jordan v&agrave; gia đ&igrave;nh anh ấy. Tuy nhi&ecirc;n, Jordan đ&atilde; trễ tới bốn giờ trong cuộc họp v&igrave; anh ra ngo&agrave;i chơi golf với Strasser v&agrave; Moore. Khi Michael Jordan đến, anh dường như đ&atilde; tỏ ra rất c&aacute;u giận. Phải chăng Jordan đ&atilde; bị thuyết phục bởi những nh&acirc;n vi&ecirc;n cũ của Nike? Knight nhường lại cuộc n&oacute;i chuyện cho Hatfield, người bắt đầu hỏi Michael xem anh ta c&oacute; nhớ những y&ecirc;u cầu của m&igrave;nh từ cuộc tr&ograve; chuyện trước đ&oacute; kh&ocirc;ng. Ng&ocirc;i sao b&oacute;ng rổ đến từ California bắt đầu dịu lại khi họ n&oacute;i chuyện, v&agrave; khi Hatfield gỡ tấm vải liệm ra khỏi m&ocirc; h&igrave;nh nguy&ecirc;n mẫu, Jordan đ&atilde; thực sự y&ecirc;u th&iacute;ch n&oacute; ngay từ c&aacute;i nh&igrave;n đầu ti&ecirc;n. Đ&oacute; ch&iacute;nh x&aacute;c l&agrave; những g&igrave; anh ấy đ&atilde; t&igrave;m kiếm. Kiểu d&aacute;ng đẹp, thiết kế cổ mid, da đầy đủ mềm mại, họa tiết elephant print, v&agrave; th&uacute; vị nhất trong tất cả &ndash; logo ri&ecirc;ng của anh ấy tr&ecirc;n lưỡi g&agrave;. Jumpman đ&atilde; được lấy cảm hứng từ một h&igrave;nh ảnh nổi tiếng năm 1984 của Jordan khi anh nhảy l&ecirc;n kh&ocirc;ng trung cho một c&uacute; dunk. Mọi thứ đều n&oacute;i l&ecirc;n rằng Jordan l&agrave; người cầm chu&ocirc;i trong thương hiệu n&agrave;y, v&agrave; anh đ&atilde; gia hạn thỏa thuận với Nike. Hầu hết c&aacute;c sneakerhead đều nhớ tới h&igrave;nh ảnh Jordan lần đầu ti&ecirc;n đi tr&ecirc;n ch&acirc;n m&igrave;nh đ&ocirc;i Air Jordan 3 trong trận đấu NBA All-Star năm 1988. Tuy nhi&ecirc;n, Jordan thỉnh thoảng cũng đi tr&ecirc;n m&igrave;nh thiết kế &ldquo;White Cement&rdquo; đầu th&aacute;ng 11 năm 1987 ở một số trận đấu. Jordan đ&atilde; sử dụng Air Jordan 3 tại All-Star Weekend diễn ra ở Chicago tr&ecirc;n con đường d&agrave;nh danh hiệu Slam Dunk thứ hai li&ecirc;n tiếp với c&uacute; foul-line dunk huyền thoại của m&igrave;nh. Jordan cũng đ&atilde; đeo phối m&agrave;u &ldquo;Black Cement&rdquo; của nh&oacute;m trong trận đấu All-Star. Trước 18.403 người h&acirc;m mộ, anh đ&atilde; l&agrave;m l&oacute;a mắt kh&aacute;n giả nh&agrave; với 40 điểm, 8 rebound, 3 hỗ trợ, 4 lần cướp b&oacute;ng, 4 lần đ&aacute;nh chặn v&agrave; d&agrave;nh lu&ocirc;n danh hiệu MVP. Đ&oacute; l&agrave; lần duy nhất trong cả m&ugrave;a giải, Jordan mặc đồ đen trong một trận đấu. Để quảng b&aacute; cho mẫu gi&agrave;y mới, đ&atilde; c&oacute; những quảng c&aacute;o cực kỳ c&oacute; ảnh hưởng của Air Jordan 3 với một Spike Lee trẻ tuổi trong vai tr&ograve; Mars Blackmon. Lee lần đầu ti&ecirc;n thủ vai trong bộ phim năm 1986 c&oacute; t&ecirc;n gọi She Gotta Have It. Blackmon, một người ồn &agrave;o, bị &aacute;m ảnh bởi sneaker, đ&atilde; đồng h&agrave;nh c&ugrave;ng Jordan trong bốn năm tại c&aacute;c điểm truyền h&igrave;nh v&agrave; quảng c&aacute;o. C&aacute;c quảng c&aacute;o của Wieden + Kennedy l&agrave; một th&agrave;nh c&ocirc;ng lớn, l&agrave;m dấy l&ecirc;n những c&acirc;u khẩu hiệu như&nbsp;&ldquo;It&rsquo;s gotta be the shoes&rdquo;&nbsp;v&agrave; một trong những biệt danh của Jordan &ndash;&nbsp;&ldquo;Money&rdquo;. Ngo&agrave;i ra c&ograve;n c&oacute; một quảng c&aacute;o hai trang trong Sports Illustrated Swimsuit năm 1988 giới thiệu Jordan v&agrave; Blackmon. Giữa ảnh hưởng của Jordan qua All-Star Weekend, c&aacute;c quảng c&aacute;o, v&agrave; thực tế l&agrave; anh ấy đ&atilde; chưa từng d&ugrave;ng lại phi&ecirc;n bản Black Cement một lần n&agrave;o nữa. Hai phối m&agrave;u &ldquo;White Cement&rdquo; v&agrave; &ldquo;Black Cement&rdquo; xuất hiện v&agrave;o th&aacute;ng 1 năm 1988. Sau khi mang tr&ecirc;n m&igrave;nh phi&ecirc;n bản m&agrave;u trắng cho gần như cả m&ugrave;a giải, Jordan chuyển sang phối m&agrave;u &ldquo;Fire Red&rdquo; cho v&ograve;ng Playoffs năm 1988 v&agrave; mở đầu m&ugrave;a giải năm 1988-89. Một colorway thứ tư, c&oacute; t&ecirc;n l&agrave; &ldquo;True Blue&rdquo; chưa từng được Jordan mang tr&ecirc;n ch&acirc;n trong bất kỳ một trận đấu n&agrave;o của NBA cho đến năm 2001, khi anh mang tr&ecirc;n m&igrave;nh một phi&ecirc;n bản retro l&uacute;c chơi cho Washington Wizards. Trong những năm qua, Air Jordan 3 đ&atilde; được retro với số lượng ch&oacute;ng mặt, với c&aacute;c m&agrave;u sắc cổ điển như White Cement v&agrave; Black Cement l&agrave; phổ biến nhất. Phi&ecirc;n bản White Cement đ&atilde; được Nike ph&aacute;t h&agrave;nh lại v&agrave;o những năm 1994, 2003, 2011, 2013 v&agrave; 2018, trong khi phối m&agrave;u Black Cement đ&atilde; trở lại v&agrave;o những năm 1994, 2001, 2008, 2011 v&agrave; 2018. V&agrave;o năm 2001, Jordan Brand cũng đ&atilde; mang về chiếc True Blue v&agrave; ph&aacute;t h&agrave;nh d&ograve;ng m&agrave;u kh&ocirc;ng phải OG đầu ti&ecirc;n &ndash; Air Jordan 3 Mocha, chuyển đổi logo Nike Air ở g&oacute;t ch&acirc;n th&agrave;nh logo Jumpman. Thiết kế logo Jumpman ở g&oacute;t gi&agrave;y cũng lần lượt xuất hiện tr&ecirc;n phi&ecirc;n bản White Cement v&agrave; Black Cement retro v&agrave;o năm 2011. Phối m&agrave;u &ldquo;Fire Red&rdquo; OG đ&atilde; chưa từng c&oacute; một bản retro n&agrave;o cho đến năm 2007. V&agrave;o năm đ&oacute;, người h&acirc;m mộ cũng chứng kiến ​​sự xuất hiện của c&aacute;c phối m&agrave;u mới như Pure Money, Black Cat v&agrave; Do The Right Thing. V&agrave;i năm tiếp theo l&agrave; qu&atilde;ng thời gian kh&aacute; im ắng của Air Jordan 3, với chiếc True Blue trở lại v&agrave;o năm 2009 v&agrave; thiết kế &ldquo;25th Anniversary&rdquo; v&agrave; &ldquo;Doernbecher&rdquo; v&agrave;o năm 2010 trước một loạt c&aacute;c bản retros v&agrave; phối m&agrave;u mới v&agrave;o năm 2011. Air Jordan 3 trở lại một lần nữa v&agrave;o năm 2013 với kiểu d&aacute;ng cổ điển của phối m&agrave;u White Cement (c&oacute; logo OG Nike Air ở g&oacute;t ch&acirc;n). Jordan Brand cũng đ&atilde; mang về trở lại hai thiết kế Fire Red v&agrave; Doernbecher c&ugrave;ng với nhiều m&agrave;u sắc mới. V&agrave;o năm 2014, Jordan Brand đ&atilde; hợp t&aacute;c với SoleFly để ra mắt phi&ecirc;n bản friends-and-family &ldquo;Lotto&rdquo; Air Jordan 3. V&agrave; năm 2017, atmos đ&atilde; ra mắt hai phối m&agrave;u Air Jordan 3 v&agrave; Air Max 1 lấy cảm hứng từ Air Jordan 3 cho ng&agrave;y kỷ niệm Air Max Day. Năm 2018, phi&ecirc;n bản mới nhất của phối m&agrave;u Black Cement, giống như thiết kế retro của White Cement v&agrave;o năm 2013, đ&atilde; kh&ocirc;i phục logo Nike Air nguy&ecirc;n bản ở g&oacute;t ch&acirc;n v&agrave; c&oacute; chất liệu da cũng như họa tiết elephant print giống với phi&ecirc;n bản OG năm 1988. Một phi&ecirc;n bản kỷ niệm đặc biệt với t&ecirc;n gọi &ldquo;Free Throw Line&rdquo; &ldquo;White Cement&rdquo; retro cũng xuất hiện v&agrave;o th&aacute;ng 2, vinh danh Jordan Dunk tại Cuộc thi Slam Dunk năm 1988. Phi&ecirc;n bản Tinker NRG của Air Jordan 3, một lần nữa được ph&aacute;t h&agrave;nh v&agrave;o năm 2018, đ&atilde; th&ecirc;m một b&ecirc;n dấu swoosh l&ecirc;n tr&ecirc;n phần th&acirc;n gi&agrave;y như một sự tưởng nhớ đến một trong những bản ph&aacute;c thảo ban đầu của Hatfield. Air Jordan 3 mang rất nhiều &yacute; nghĩa lần đầu ti&ecirc;n của cả Jordan v&agrave; Nike. Đ&oacute; l&agrave; đ&ocirc;i gi&agrave;y sneaker đầu ti&ecirc;n mang logo Jumpman v&agrave; l&agrave; đ&ocirc;i gi&agrave;y đầu ti&ecirc;n trong số nhiều đ&ocirc;i gi&agrave;y m&agrave; Hatfield thiết kế cho His Airness. M&ugrave;a giải 1987-88 l&agrave; lần đầu ti&ecirc;n Jordan chơi c&ugrave;ng với c&aacute;c đồng đội quan trọng Scottie Pippen v&agrave; Horace Grant, v&agrave; cũng l&agrave; năm đầu ti&ecirc;n của huấn luận vi&ecirc;n Phil Jackson tại Bulls (mặc d&ugrave; với tư c&aacute;ch l&agrave; một trợ l&yacute;). Jordan cũng đ&atilde; đạt được danh hiệu MVP đầu ti&ecirc;n của m&igrave;nh v&agrave; gi&agrave;nh giải Defensive Player của năm với đ&ocirc;i gi&agrave;y Air Jordan 3s. Di sản của Jordan, bắt đầu từ ph&uacute;t đầu ti&ecirc;n anh bước l&ecirc;n s&acirc;n NBA khi c&ograve;n l&agrave; một t&acirc;n binh, nhưng đến năm thứ tư, anh đ&atilde; bắt đầu thống trị c&aacute;c trận đấu như chưa từng c&oacute; trước đ&acirc;y. Đ&ocirc;i gi&agrave;y anh mang chỉ th&ecirc;m v&agrave;o h&igrave;nh ảnh của một biểu tượng bước v&agrave;o thời kỳ ho&agrave;ng kim. Mặc d&ugrave; Chicago Bulls đ&atilde; thất bại trong trận b&aacute;n kết NBA Playoffs năm 1988, nhưng h&igrave;nh ảnh của Jordan trong đ&ocirc;i gi&agrave;y b&oacute;ng rổ với họa tiết elephant print trắng v&agrave; x&aacute;m trong suốt m&ugrave;a giải vẫn kh&ocirc;ng thể x&oacute;a nh&ograve;a.</p>",
+            "an_hien": "1",
+            "hinh": "images/blog/air-jordan-3-lich-su-cua-thiet-ke-da-cuu-roi-nike.png",
+            "luot_xem": "609",
+            "hot": "1",
+            "ngay": "2023-11-07",
+            "id_loai": "2"
+        },
+        {
+            "id": "3",
+            "tieu_de": "Giày trắng đi tất màu gì?",
+            "slug": "giay-trang-di-tat-mau-gi.html",
+            "mo_ta": "Để tạo nên outfit thời thượng, bạn có thể diện bộ đồ màu đen huyền bí tạo nên phong cách thời trang cool ngầu  mỗi khi xuống phố. Tất trắng chỉ phù hợp khi phối với giày thể thao.",
+            "noi_dung": "Giày trắng đi tất màu gì? Phối giày trắng với tất màu gì sao cho chất? Giày trắng đi tất màu trắng. Nếu bạn yêu thích sự đồng bộ, một đôi vớ trắng sẽ là lựa chọn không có gì để bàn cãi, đây chính là sự kết hoàn hảo hảo. Tùy vào kiểu dáng của đôi giày, bạn nên chọn độ dài của tất sao cho phù hợp nhất. Để tạo nên outfit thời thượng, bạn có thể diện bộ đồ màu đen huyền bí tạo nên phong cách thời trang cool ngầu mỗi khi xuống phố. Tất trắng chỉ phù hợp khi phối với giày thể thao. Bạn không nên phối tất trắng với giày Tây, điều này sẽ khiến bộ đồ của bạn mất đi vẻ đẹp thẩm mỹ và sự sang trọng vốn có. Các loại màu tất khác có thể phối với giày trắng 2.1 Tất màu đen Một gợi ý cho những bạn còn đang băn khoăn giày trắng nên mang vớ màu gì, đó chính là tất đen. Đây có thể nói là một sự kết hợp tuyệt vời giữa hai tone màu cơ bản không bao giờ lỗi mốt theo thời gian. Gam màu đen của tất đem đến sự bí ẩn, quyến rũ đầy thu hút kết hợp với màu trắng nhã nhặn, sang trọng. Bạn có thể lên outfit với bộ đôi trắng đen này đi khắp nơi trong mọi hoàn cảnh khác nhau. 2.2 Tất màu xám nhạt, xanh nhạt, vàng nhạt Những chiếc vớ màu sắc thế này sẽ là điểm nhấn tuyệt vời đem lại một vẻ đẹp thời trang đầy cá tính và mạnh mẽ đó nhé. Gam màu xanh nhạt hay vàng nhạt sẽ tạo nên sự tương phản mạnh mẽ cho thị giác và giúp người diện trở nên tràn đầy sức sống. Đối với màu xám, khi kết hợp với giày trắng nó sẽ tạo nên một phong cách thanh lịch, nhẹ nhàng và cực kỳ tinh tế. 2.3  Tất màu đỏ, xanh đậm         Với sự kết hợp hoàn hảo này sẽ đem đến set đồ gợi cảm, bí ẩn nhưng vẫn vô cùng thanh lịch. Qua đây, bạn có thể thấy, một đôi giày trắng có thể dễ dàng kết hợp cùng nhiều màu tất khác nhau, giúp bạn biến hóa nhiều phong cách thời trang khác nhau. Đây sẽ là cách phối màu vô cùng thú vị cho bạn trong tiết trời thu đông gió lạnh, đặc biệt là vào vào dịp giáng sinh. 2.4 Tất nhiều họa tiết, tất Tie-dye         Nhờ văn hóa hippie, phong cách tie-dye bùng nổ mạnh mẽ và trở nên thịnh hành trong những năm 1960. Nếu như bạn đang sở hữu một đôi giày trắng và không biết nên phối chúng với tất màu gì. Vậy bạn có thể phối nó với một chiếc tất sặc sỡ nhiều hoạ tiết để làm nổi bật và tạo được ấn tượng cho mọi người, tạo sự nên cá tính riêng cho bản thân. Nguyên tắc khi kết hợp màu tất cùng giày trắng 3.1 Ưu tiên phối màu tất với quần         Có không ít người khi chọn màu tất sẽ dựa theo màu sắc của đôi giày mà mình sẽ mang. Chẳng hạn như đi giày đen sẽ chọn tất màu đen, giày trắng sẽ đi với tất màu trắng,… Đây là suy nghĩ hết sức sai lầm và cần phải thay đổi ngay nhé. Bạn cần ưu tiên lựa chọn màu của tất theo màu quần bạn đang mặc. Nếu bạn mặc quần màu xám, đi giày màu nâu thì bạn phải chọn tất màu xám nhé, và áp dụng tương tự với những màu khác. Đặc biệt khi phối tất với quần màu sáng thì bạn nên lưu ý hơn, bạn cần lựa chọn đôi vớ cùng màu nhưng tông đậm hơn một chút.  3.2 Phối màu tất với giày khi mặc đồ đơn giản            Khi lựa chọn outfit , bạn có thể tự tạo dress code cho quần áo, giày và tất để tạo nên set đồ vừa đơn giản, vừa thời thượng. Ví dụ, khi kết hợp với một đôi giày trắng bạn nên ưu tiên mix cùng trang phục và tất cũng màu đen trắng. Dù chỉ là màu sắc đơn giản, basic thôi nhưng nó cũng có thể giúp bạn trông sành điệu và thời trang hơn nhiều đó. 3.3 Giữ giày và tất trong tình trạng trắng sáng         Để giúp bạn luôn tự tin trong trang phục của mình thì việc giữ giày và tất trong tình trạng trắng sáng là điều vô cùng quan trọng và cần thiết. Một đôi tất thường chỉ đảm bảo chất lượng tối đa là 6 tháng, vì vậy bạn cần chú ý vệ sinh, bảo quản, cũng như chuẩn bị sẵn những đôi tất dự trữ cho mình nhé!",
+            "an_hien": "1",
+            "hinh": "images/blog/giay-trang-di-tat-mau-gi.jpg",
+            "luot_xem": "203",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "3"
+        },
+        {
+            "id": "4",
+            "tieu_de": "Có nên giặt giày bằng máy giặt hay không ?",
+            "slug": "co-nen-giat-giay-bang-may-giat-hay-khong.html",
+            "mo_ta": "Giờ đây, cuộc sống đã trở nên dễ dàng hơn bao giờ hết, bởi giặt giày bằng máy giặt chính là chìa khóa giúp bạn “rảnh tay” hơn đấy. Vậy giặt giày bằng máy như thế nào và có những lưu ý gì?  Hãy cùng Sneaker Square tìm hiểu trong bài viết ngày hôm nay nhé!",
+            "noi_dung": "Với những người luôn bận rộn, có quỹ thời gian ít ỏi, nhìn đống quần áo, giày dép bẩn, chưa được vệ sinh khiến bạn vô cùng chán nản. Giờ đây, cuộc sống đã trở nên dễ dàng hơn bao giờ hết, bởi giặt giày bằng máy giặt chính là chìa khóa giúp bạn “rảnh tay” hơn đấy. Vậy giặt giày bằng máy như thế nào và có những lưu ý gì? Hãy cùng Sneaker Square tìm hiểu trong bài viết ngày hôm nay nhé! Có nên giặt giày bằng máy giặt hay không? Việc giặt giày bằng máy giặt hoàn toàn là điều có thể thực hiện được, bởi phương pháp này không chỉ giúp giày của bạn được làm sạch nhanh chóng, cũng như tiết kiệm thời gian, công sức hơn so với giặt tay. Ngoài ra, cách giặt giày này còn giúp cho giày được vắt khô hơn, rút ngắn thời gian phơi, đặc biệt rất phù hợp với nhịp sống bận rộn ngày nay.   Bạn cần nắm thật kĩ những thông tin về giày của mình trước khi giặt chúng. Thông thường các loại giày chính hãng đều có hướng dẫn chi tiết trên tem mác, nếu không phải là giày chính hãng, bạn nên ngâm thử với nước trước, vì rất có thể chúng sẽ bị loang màu. Phân loại giày có thể giặt giày bằng máy giặt Thông thường, những loại giày mà bạn có thể chọn để giặt bằng máy là các loại giày cho trẻ em, sandal, giày thể thao, giày chạy bộ Nike, Vans,…; giày làm từ các chất liệu cotton, nylon, polyester và một số loại chất liệu khác. Tuy nhiên, các loại giày được làm từ da, vải satin hoặc lụa không bao giờ được dùng máy giặt để làm sạch chúng. Bởi khi quay vắt, máy giặt có thể làm hỏng lớp da hoặc lớp lụa đắt tiền. Do đó trước khi muốn giặt một đôi giày bất kỳ thì bạn nên kiểm tra kỹ từng nhãn mác trên đôi giày để nắm được các thông tin liệu nó có thể giặt bằng máy không, cũng như nhiệt độ, chế độ giặt như thế nào cho phù hợp nhé! Những lưu ý khi giặt giày bằng máy giặt Chỉ giặt giày thể thao: Máy giặt chỉ dành cho một số loại giày nhất định như giày thể thao hoặc giày chạy bộ. Chú ý không giặt giày da và giả da bằng máy giặt bởi nó có thể làm hư hỏng lớp da nghiêm trọng. Tháo dây buộc và đế lót: Để giữ cho dây buộc của bạn không bị rối và vướng víu, hãy tháo chúng ra khỏi giày và đặt chúng vào một túi giặt riêng. Bên cạnh đó, miếng lót giày nên được giặt bằng tay để tránh tình trạng hư hỏng và mất nếp . Thêm khăn: Trước khi bạn cho giày vào máy giặt, hãy thêm 4 – 6 chiếc khăn cũ hoặc quần áo cũ vào giặt chung. Điều này sẽ giữ trọng lượng đồ giặt và giúp cho đôi giày của bạn không bị va đập xung quanh trong khi giặt. Nếu cẩn thận bạn có thể cho đôi giày vào trong túi lưới để bảo vệ đôi giày. Chọn chế độ giặt chậm: Bạn nên chọn giặt với chức năng quay chậm và nước ấm. Bởi việc sử dụng tốc độ quay chậm sẽ đảm bảo máy giặt của bạn hoạt động một cách ổn định . Không nên dùng chức năng sấy: Sau khi hoàn tất việc giặt, bạn không nên sử dụng chế độ sấy bởi nhiệt độ cao có thể làm bong keo dán của giày và thậm chí điều này có thể khiến một số loại vải hoặc vật liệu bị co lại. Sử dụng máy sấy cũng có thể làm cong vênh hoặc biến dạng đôi giày của bạn, từ đó ảnh hưởng đến độ vừa vặn và tính thẩm mỹ của chúng.  Hướng dẫn cách giặt giày bằng máy giặt đơn giản tại nhà  Bước 1: Đọc kỹ nhãn mác trên đôi giày Một số thương hiệu giày nổi tiếng thường cung cấp các thông tin trên nhãn mác, cho bạn biết có thể sử dụng xà phòng, thuốc tẩy không, hoặc nhiệt độ nước lý tưởng là bao nhiêu. Từ đó, bạn sẽ có phương pháp vệ sinh phù hợp nhất để xử lý vết bẩn và mùi hôi của giày. Bước 2: Vệ sinh sơ qua đôi giày Dùng bàn chải chà xung quanh cạnh giày và đế giày để loại bỏ các mảnh bùn, đất bám trên giày. Điều này sẽ làm đôi giày sạch hơn và không để lại cặn đất ở máy sau khi giặt .  Bước 3: Bảo vệ giày và hạn chế tiếng ồn Cho giày vào túi giặt hoặc vỏ gối thay thế nếu không có. Đồng thời cho khăn cũ vào để hạn chế tiếng ồn. Bước 4: Bật máy giặt Bạn hãy cho giày vào một chiếc túi giặt (hoặc vỏ gối) để tránh bị va đập mạnh vào lồng giặt gây hư hỏng, mất form giày. Ngoài ra, nhằm giảm thiểu âm thanh tiếng ồn phát ra khi máy giặt hoạt động, bạn cũng có thể cho thêm một vài chiếc khăn, hoặc quần áo vào giặt chung với đôi giày. Bạn nên chọn chế độ giặt nhẹ với nhiệt độ nước dưới 30 độ C để hạn chế sự phai màu và chọn chu trình xả mạnh, vắt nhẹ để loại bỏ toàn bộ xà phòng sau khi giặt. Bước 5: Phơi khô Sau khi giặt giày xong, bạn hãy lấy giày ra và phơi khô chúng ở nơi thoáng mát, tránh ánh nắng trực tiếp từ mặt trời. Đối với những đôi giày trắng, bạn nên quấn một lớp giấy mềm để tránh bị ố vàng làm đôi giày mất tính thẩm mỹ. Cách khử mùi hôi khi vệ sinh giày tại nhà  Việc mang 1 đôi giày thường xuyên khiến đôi giày của bạn không được “nghỉ ngơi”, từ đó mùi hôi sẽ ngày càng nặng và gây khó chịu cho bạn, kể cả người đối diện. Vì vậy, bạn có thể tận dụng một số phương pháp sau để có thể khử mồ hôi đơn giản và hiệu quả ngay tại nhà: Nước rửa giày: Bạn có thể tự pha dung dịch kết hợp 1 muỗng cà phê nước rửa chén và 2 cốc nước ấm. Để làm sạch, bạn chỉ cần dùng bàn chải đánh răng nhúng vào dung dụng vừa pha, trà lên các vết bẩn, sau đó lau sạch bằng khăn giấy để lau khô. Bạn cũng có thể tận dụng dung dịch này để làm sạch đế lót giày. Sử dụng giấm trên giày da: Nếu bạn đang xử lý vết bẩn trên giày da của mình, bạn có thể sử dụng hỗn hợp nước mát và giấm trắng chưng cất. Nhúng một miếng vải vào dung dịch, sau đó lau, chà nhẹ lên vết bẩn đến khi chúng hoàn toàn được loại bỏ. Khử mùi: Có rất nhiều cách dễ dàng, đơn giản để giải quyết mùi giày. Ví dụ bạn có thể để baking soda qua đêm trong giày để khử mùi. Ngoài ra, bạn có thể tận dụng muối, bởi muối là nguyên liệu có khả năng hấp thụ độ ẩm cao; sử dụng giấy thơm hút ẩm; hoặc nhỏ vài giọt tinh dầu oải hương vào giày,…",
+            "an_hien": "1",
+            "hinh": "images/blog/co-nen-giat-giay-bang-may-giat-hay-khong.png",
+            "luot_xem": "359",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "1"
+        },
+        {
+            "id": "5",
+            "tieu_de": "Nike Space Hippie – Biến rác thành vàng",
+            "slug": "nike-space-hippie-bien-rac-thanh-vang.html",
+            "mo_ta": "Thế nhưng, trong những năm gần đây xu thế ưu tiên những thứ càng ít, càng tối giản đang tăng lên mạnh mẽ. Hãy cùng Sneaker Square tìm hiểu về Nike Space Hippie – Biến rác thành vàng sau đây nhé!",
+            "noi_dung": "Hầu hết mọi người bị thu hút bởi những thương hiệu có sản phẩm sản xuất từ nhiều thứ chất liệu mới, hiện đại, càng nhiều càng tốt. Thế nhưng, trong những năm gần đây xu thế ưu tiên những thứ càng ít, càng tối giản đang tăng lên mạnh mẽ. Hãy cùng Sneaker Square tìm hiểu về Nike Space Hippie – Biến rác thành vàng sau đây nhé! Những bước chân của các thương hiệu lớn sang sản phẩm thân thiện môi trường ngày càng rõ rệt, chiến lược ưu tiên sự đổi mới giờ đã chuyển sang tạo những sản phẩm thời trang từ rác thải và phế liệu sẵn có. Năm 2020, bất chấp mọi thứ để tạo ra một sản phẩm được đánh giá là vô trách nhiệm và đáng bị tẩy chay. Giới sản xuất giày đua nhau tìm nguồn cung ứng bền vững như giày từ Cafe của Việt Nam hay một số loại giày từ Nilon của Ấn Độ. Đến cả Nike, thương hiệu giày nổi tiếng nhất thế giới đã có những đầu tư nhất định cho hành trình xanh, hướng về tương lai này. Ứng dụng khoa học để sản xuất những loại chất liệu phù hợp và chọn cho mình những nhà thiết kế nổi tiếng để tung ra các bản collab ăn khách đều rất quan trọng; cả hai đều có tác động mạnh mẽ lên nét đặc trưng của Nike, nhưng chỉ một trong hai có thể gây ảnh hưởng tốt đến môi trường xung quanh. The Swoosh đã khám phá ra những phương pháp phát triển sản xuất bền vững trong nhiều thập kỷ. Năm 2005, họ đã khởi chạy dự án sử dụng nguồn nguyên liệu trong vòng 200 dặm từ nhà máy sản xuất để giảm lượng khí thải giao thông. Da, da lộn và hemps được xử lý ở mức tối thiểu trong khi đế được làm bằng cao su thải từ nhà máy tái chế. Một vài dự án thành công khác bao gồm Trash Talk, đóng giày bằng vải vụn từ sàn nhà máy; Vải Flyknit với các sợi làm từ chai nhựa tái chế; và cuối cùng là Flyleather, chất liệu tổng hợp từ tái chế rất tốt và vô cùng bền đẹp. Giờ đây, với dòng Space Hippie mới, Nike thực sự đã có một thứ gì đó hiệu quả thực sự trong thời gian rất dài. Biến rác thành vàng – Crater Foam Noah Murphy-Reinhertz (Trưởng nhóm thiết kế bền vững cho Nike) đã đóng một vai trò quan trọng trong bước tiến Space Hippie. Anh đã bị thúc đẩy bởi ý tưởng tạo ra một nguồn nguyên liệu có thể được sử dụng cho giày dép, và một cách ngẫu nhiên chủ đề du hành vũ trụ và thám hiểm rất phù hợp với dự án này. Các phi hành gia thường được giao nhiệm vụ giải quyết những vấn đề đòi hỏi sự tháo vát, cách thức đôi giày này ra đời cũng là một sự kết nối thẩm mỹ mang tính chất khám phá tương tự vậy. Dáng vẻ bề ngoài mẫu sneaker này trông có vẻ như chưa được hoàn thiện, khá là thô sơ, thế nhưng nó hoàn toàn hoạt động và rất hiệu quả. Đây là thứ mà bạn có thể thấy nhiều ở ngoài vũ trụ. Bắt đầu với phần trên của giày, sợi Space Waste Yarn được làm từ 85-90% rác thải tái chế. Điều đó có nghĩa là không có thuốc nhuộm hay chất màu nào thêm vào, các màu được tạo ra là “lint, dark lint và light lint”. Về cơ bản, không có quá trình xử lý bổ sung, mọi thứ đều nghiêng về một màu grey-ish (kiểu xám), nhưng được kết hợp với xanh Crater Foam và vài màu sáng, vẻ bề ngoài tái chế vẫn được giữ nguyên.  Từ kinh nghiệm đầu tay, Space Waste Yarn có độ đàn hồi và mềm mại cao, có thể đem đi so sánh với vải Flyknit đương đại. Mỗi thiết kế Space Hippie đều được hỗ trợ bởi đế ZoomX được làm hoàn toàn từ phế liệu trong quá trình sản xuất ZoomX nguyên bản, nhưng có một thách thức lớn gặp phải đối với đội ngũ sản xuất là: “làm sao để ghép các mảnh vụn lại với nhau nhưng vẫn đạt được độ bền, cảm giác chân và khả năng phản hồi như mong đợi ở một đôi giày chạy có đế ZoomX”. Phần đế insole sau đó được đặt vào lõi của bánh Crater Foam, nhận được màu xanh nổi bật từ 50% Nike chambray. Sau khi lớp bọt được xử lý, nhóm đổi mới đã đặt ‘bits’ của cao su tái chế và làm nổi bật thêm mô típ “space junk’ của bộ sưu tập. Nhìn chung, Space Hippie có lượng khí thải carbon cực thấp mà không ảnh hưởng đến bất kỳ sự năng động và hào nhoáng nào của thiết kế. Bộ sưu tập Space Hippie Carter Foams, Space Waste Yards và đế insole ZoomX tái chế đều đưa vào hình dáng của bốn kiểu khác nhau – Space Hippie 01, Space Hippie 02, Space Hippie 03 và Space Hippie 04. Toàn bộ sưu tập giày dép unisex này sẽ có đủ size nam và size nữ cho cả hai giới. Mỗi đôi sẽ được đặt trong hộp đựng giày đặc biệt, không hề có mô tả bên ngoài như hộp bình thường. Phía ngoài có box-tag và nhãn hiệu in bên dưới, nhưng phía trong lại là một câu chuyện khác vĩ đại hơn nhiều với dòng tag-line TRASH IS TREASURE, đồ họa Space Hippie và hơn thế nữa. Bộ sưu tập này đã ấn định ngày release vào 11 tháng 6 tới trên NIKE SNKRS/SNEAKRS. Space Hippie 01 Space Hippie 01 là đôi giày trông “bình thường” nhất, nó có một đường low-cut điển hình của mẫu giày chạy và bố cục viền truyền thống. Dây giày ren bắt nối với dây viền thay vì xuyên qua lỗ như thường lệ và nằm ngay trên dải ruy băng khâu xuống mid-foot. Đế ngoài Crater Foam với một đệm full-length ZoomX bên trong đủ để tăng khả năng đệm cũng như độ phản hồi. Thiết kế này phát hành ngày 11 tháng 6 tới trên Nike SNKRS/SNEAKRS với giá $130 USD. Space Hippie 02 Space Hippie 02 bỏ qua sự sắp xếp viền giống 01 và tăng chiều cao lên theo kiểu chukka-like. Logo The Swoosh đặt ở phần trước chân, một chi tiết rất hấp dẫn trên các mẫu thể thao thiên về hiệu suất và tốc độ như dòng Mercurial, Nike Lebron. Ở phần mắt cá chân là một lớp đệm dày, đàn hồi và siết hơn để phù hợp cho hoạt động thể thao. Thiết kế này phát hành ngày 11 tháng 6 tới trên Nike SNKRS/SNEAKRS với giá $150 USD.",
+            "an_hien": "1",
+            "hinh": "images/blog/nike-space-hippie-bien-rac-thanh-vang.jpg",
+            "luot_xem": "564",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "2"
+        },
+        {
+            "id": "6",
+            "tieu_de": "Hướng dẫn chọn size giày Jordan 1 đơn giản và chuẩn xác",
+            "slug": "huong-dan-chon-size-giay-jordan-1-don-gian-va-chuan-xac.html",
+            "mo_ta": "Sneaker Square sẽ cùng các bạn tìm hiểu cách chọn size giày Jordan 1 đơn giản và chuẩn xác nhất.  Air Jordan 1 – một mẫu giày nổi tiếng đang rất thịnh hành trên thị trường Việt Nam và thị trường quốc tế.",
+            "noi_dung": "Sneaker Square sẽ cùng các bạn tìm hiểu cách chọn size giày Jordan 1 đơn giản và chuẩn xác nhất. Air Jordan 1 – một mẫu giày nổi tiếng đang rất thịnh hành trên thị trường Việt Nam và thị trường quốc tế. Với các mẫu Jordan khác, bạn sẽ chọn size tương tự với size của Jordan 1. (Trừ Jordan 11 trở đi sẽ chọn theo size chuẩn – True to size). Thông tin cần lưu ý trước khi chọn size giày Air Jordan 1 1. Điều tiên quyết trước khi chọn được size, bạn cần có một đôi giày Jordan chính hãng. Tại sao đây lại là yếu tố quan trọng?: đối với những đôi giày Fake hay Rep, form giày sẽ nhảy lung tung theo máy xưởng công nghiệp. Chính vì vậy, không thể tư vấn size cho các dòng giày đó. Kể cả những đôi giày đắt tiền, nếu bạn mua từ một nguồn lừa đảo thì khả năng dính Fake vẫn rất cao. Để chắc chắn nhất, bạn có thể tham khảo thêm Cách phân biệt Jordan Real và Fake sau khi mua giày. Bạn có thể lựa chọn trong bộ sưu tập Nike Jordan 1 của Sneaker Square, hoặc tìm tại các nguồn trong nước và ngoài nước khác. 2. Dòng giày Air Jordan 1 sẽ bao gồm 3 thiết kế: Cổ cao (Jordan 1 High), cổ trung (Jordan 1 Mid) và cổ thấp (Jordan 1 Low). Cách chọn size cũng như cách phối đồ của 3 mẫu giày này có phần khác nhau, mặc dù là anh em ruột. 3. Ở các nước như Mỹ hay châu Âu thì Jordan 1 High là dòng giày được ưa thích nhất. Tuy nhiên, tại Việt Nam thì Jordan 1 Low cũng như Jordan 1 Mid lại được tiêu thụ rất mạnh không chỉ bởi sự đa dạng về màu sắc mà còn bởi tính ứng dụng rất cao, phù hợp với nhiều phong cách phối đồ của người châu Á. Hướng dẫn chọn size giày Jordan 1 chính hãng Nếu bạn đã lâu chưa đo lại kích thước bàn chân của mình hoặc đã quên mất cỡ chuẩn thì có thể thực hiện theo 4 bước mà Sneaker Daily gợi ý dưới đây => tiếp đó chọn kích thước trong ảnh Bảng size giày Jordan 1. – Bước 1: Hãy đi đôi tất thường ngày của bạn và cố định một tờ giấy A4 vào sát bờ tường. – Bước 2: Đặt chân lên trên tờ giấy trắng vừa chuẩn bị, gót chân chạm mặt tường. – Bước 3: Vạch một đường song song với mặt tường và đi qua điểm dài nhất của các ngón chân. – Bước 4: Dùng thước đo khoảng cách giữa đường vừa vạch được với bờ tường. Sau đó đối chiếu với size centimet (cm) ở bảng dưới đây. (Ví dụ: Bạn đo được 22cm như trên thì sẽ tương đương với size 35.5)*Chọn size: Chiều dài bạn vừa đo được là size chuẩn của bạn (True to size). Tuy nhiên, Jordan 1 là dòng giày bóng rổ, form của chúng khá ôm chân, cộng thêm phần cổ khá cao ở hai phiên bản Mid và High. Jordan 1 Low bạn sẽ đi True to size hoặc tăng lên 0,5 size. Ví dụ: bạn đo được chân mình dài 24 cm tương đương với size chuẩn 38.5 của Nike, thì bạn sẽ chọn size 38.5 luôn hoặc 39 đối với các bạn chân hơi bè (đa phần các bạn nam chân sẽ hơi bè do đá bóng, chơi thể thao nhiều). Jordan 1 High và Jordan 1 Mid bạn nên nâng lên 0.5 đến 1 size để vừa vặn hơn nhé. Ví dụ: bạn đo được chân mình dài 25 cm tương đương với size 7 US ở bảng size của Nike thì bạn sẽ chọn Size 7.5 hoặc size 8 Jordan 1 tùy sở thích đi giày vừa vặn hay style rộng rãi thoải mái. Lưu ý: Nếu chân bạn nằm trong khoảng giữa của 25.5 cm và 26 cm chẳng hạn, thì mặc định size chuẩn của bạn sẽ là size lớn hơn – 26 cm. Hy vọng bài viết hướng dẫn chọn size giày Jordan 1 sẽ giúp ích cho các bạn trong quá trình lựa chọn đôi giày ưng ý. Đừng quên ghé thăm bộ sưu tập Nike Jordan 1 chính hãng của Sneaker Square để tham khảo nhé.",
+            "an_hien": "1",
+            "hinh": "images/blog/huong-dan-chon-size-giay-jordan-1-don-gian-va-chuan-xac.jpg",
+            "luot_xem": "375",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "2"
+        },
+        {
+            "id": "7",
+            "tieu_de": "12+ Chai vệ sinh giày đáng dùng nhất không thể bỏ qua",
+            "slug": "12-chai-ve-sinh-giay-dang-dung-nhat-khong-the-bo-qua.html",
+            "mo_ta": "Dễ dàng tìm mua các chai dung dịch vệ sinh giày sneaker, giày da, và các loại giày khác ở hầu hết các cửa hàng, đại lý giày. Hướng dẫn sử dụng chai vệ sinh giày thường rất đơn giản.",
+            "noi_dung": "Chai vệ sinh giày là gì? Chai vệ sinh giày là chất tẩy rửa chuyên dụng giúp giày sạch sẽ, tạo một lớp bảo vệ chống bám bụi bẩn, kéo dài thời gian sạch sẽ và trạng thái như mới cho giày. Dung dịch vệ sinh không gây kích ứng, dị ứng da và không gây hỏng giày.  Lợi ích khi sử dụng dung dịch vệ sinh giày sneaker: Vệ sinh giày giúp màu giày cũ trở nên như mới, khử mùi nhanh chóng. Việc dùng dung dịch vệ sinh giày sneaker mang lại những lợi ích nổi bật sau: Loại bỏ các vết bẩn cứng đầu, cho đôi giày luôn sạch bong, sáng bóng như mới. Có lớp dưỡng giúp da giày mềm hơn, bảo vệ và tăng độ bền cho đôi giày. Tiết kiệm thời gian và công sức hơn cách giặt tẩy giày bình thường. Dung dịch vệ sinh giày sneaker phù hợp cho nhiều loại chất liệu, không gây ảnh hưởng xấu đến cấu trúc vải và da. Quá trình làm sạch giày rất đơn giản, không mất công như dùng xi sáp hay xi kem. Các sản phẩm đều giúp khử mùi, có hương thơm dịu nhẹ và không gây bết dính. Dễ dàng tìm mua các chai dung dịch vệ sinh giày sneaker, giày da,… ở hầu hết các cửa hàng, đại lý giày.  Hướng dẫn sử dụng chai vệ sinh giày sneaker: Phụ thuộc vào mỗi loại giày mà chúng ta có cách vệ sinh khác nhau. Vì giày có chất liệu da và vải khác nhau. Để tránh không làm hư hỏng giày thì có thể tham khảo các quy trình sử dụng chai vệ sinh giày sneaker như sau:  – Đối với dung dịch có đầu cọ: Bước 1: Lắc chai vệ sinh giày cho các thành phần bên trong tan đều. Bước 2: Mở nắp, dốc ngược chai về phía đầu cọ. Bước 3: Chà vào vị trí cần làm sạch, nếu thấy chưa đủ dung dịch tẩy, có thể vừa chà vừa bóp nhẹ cho nước ra nhiều hơn. Bước 4: Lấy khăn sạch lau bọt bẩn đi là hoàn thành. Bạn có thể sử dụng giày luôn. – Đối với dung dịch dạng xịt / gel: Bước 1: Lắc đều chai cho các chất bên trong hòa vào nhau. Bước 2: Xịt vào chỗ bẩn cần làm sạch, với những vùng bẩn nặng thì xịt nhiều hơn. Bước 3: Dùng bàn chải mềm chà lên vùng đã xịt nước tẩy. Đánh từ từ, nhẹ nhàng cho đến khi thấy vết bẩn không còn. Bước 4: Lấy khăn mềm lau sạch phần nước và bụi bẩn trên mặt giày. Không cần giặt lại bằng nước hay phơi khô, có thể sử dụng giày ngay. 12 chai vệ sinh giày sneaker phổ biến hiện nay: Ở thời điểm hiện tại, trên thị trường có rất nhiều thương hiệu dung dịch vệ sinh cho giày. Người tiêu dùng thường không biết nên chọn loại nào cho tốt. Vì thế, hãy cùng Sneaker Daily tham khảo top 12 chai vệ sinh giày tốt nhất cho từng chất liệu giày cụ thể dưới đây nhé! 4.1. Gel vệ sinh giày CHONGGIAY: Chai gel vệ sinh giày, chà giày CHONGIAY là giải pháp giúp bạn vệ sinh giày sạch sẽ, nhanh chóng và an toàn. Gel vệ sinh giày loại bỏ hoàn toàn các vết bẩn cứng đầu nhất, kể cả trên vải hay da lộn. Chai vệ sinh giày sneaker sẽ giúp đôi giày sạch như mới với các bước thực hiện vô cùng đơn giản. 4.2. Dung dịch vệ sinh giày sneaker Liquiproof: Liquiproof Labs là dung dịch vệ sinh giày sneaker với các thành phần thuần thiên nhiên. Sản phẩm phù hợp với nhiều chất liệu như vải, gấm, da lộn… mà không dẫn tới tình trạng bong, tróc hay có mùi hôi. Ngoài ra, Liquiproof Labs được nhiều khách hàng ưa thích và lựa chọn vì nguyên liệu lành tính, không gây nguy hiểm tới sức khỏe người dùng và môi trường.  4.3. Chai vệ sinh giày Mint: Mint là thương hiệu dung dịch vệ sinh giày chất lượng từ châu Âu. Họ luôn chuyên tâm đầu tư nghiên cứu hàng chục loại sản phẩm phục vụ cho loại chất liệu như: loại cho da mềm, da cứng, da lộn xù, da lộn chưa qua xử lý. Đây là chai vệ sinh giày giải quyết nỗi lo của các bạn nam. Sử dụng dung dịch vệ sinh giày Mint để bảo vệ đôi giày của bạn lâu bền và giữ được phong thái thời thượng. 4.4. Dung dịch vệ sinh giày sneaker Mint: Ngoài việc chuyên dùng cho giày da thì dung dịch vệ sinh giày Mint còn có thể dùng cho sneaker. Nếu đôi sneaker của bạn có phần được làm từ da thì Mint sẽ là một sự lựa chọn cực kỳ hợp lý. Chai dung dịch này sẽ tẩy rửa vết bẩn một cách nhanh chóng và sạch sẽ. 4.5. Chai vệ sinh giày Sof Sole: Sof Sole là một thương hiệu nổi tiếng toàn cầu trong lĩnh vực phụ kiện giày dép thể thao. Hãng đã cho ra đời nhiều mẫu sản phẩm tẩy rửa, bảo vệ giày tối ưu. Chai xịt vệ sinh giày sneaker Sofsole chuyên bảo vệ giày, chống thấm nước và bụi bẩn, tăng tuổi thọ giày. Nó phù hợp cho việc chăm sóc giày thể thao đa dạng chất liệu. Với công nghệ hiện đại, Sof Sole chính là giải pháp tuyệt vời giúp những đôi giày bền đẹp. Hơn nữa, đây là một trong số rất ít sản phẩm chăm sóc giày cao cấp của Mỹ có giá chỉ hơn 100.000 đồng.  4.6. Dung dịch vệ sinh giày Smart Men: Chai xịt Smart Men khử mùi giày ra đời giúp giải quyết dứt điểm nỗi lo về mùi hôi. Thành phần trong chai có có mùi thơm dịu nhẹ, ngăn ngừa vi khuẩn gây mùi hiệu quả, tạo sự thông thoáng khi sử dụng. Ngoài ra, nó còn giúp ngăn ngừa các vết bẩn và bụi bẩn bám vào bề mặt giày. Không ảnh hưởng đến chất liệu của giày, không gây phai màu. Với các thành phần an toàn, Smartmen có thể được dùng khử trùng cho mũ bảo hiểm.  4.7. Bộ vệ sinh giày Sneaker Lab: Sneaker LAB là một thương hiệu nổi bật ra đời tại Nam Phi từ năm 2012. Một số sản phẩm mà Sneaker LAB đang cung cấp bao gồm bộ dung dịch vệ sinh giày và miếng lau cấp tốc. Chai vệ sinh giày sneaker được làm từ nước, các chất sinh hóa học và đóng gói hoàn bằng giấy để có thể tái chế. Hãng luôn hướng đến các sản phẩm thân thiện với môi trường và sức khỏe con người. Combo tẩy rửa này cực kỳ tiện lợi cho người sử dụng.  4.8. Chai vệ sinh giày Nhật Kose: Bộ vệ sinh giày Kose của Nhật gồm 1 chai vệ sinh giày và 1 chai xịt vệ sinh giày sneaker. Sản phẩm với 90% thành phần tự nhiên, không gây hại da tay hay ảnh hưởng đến chất liệu giày. Đầu vòi dạng tia với dung tích lớn giúp tiết kiệm hơn khi sử dụng. Nước giặt giày cao cấp Kose sẽ nhanh chóng trả lại vẻ tươi sáng, sạch sẽ cho đôi giày của bạn. Thích hợp dùng trên nhiều chất liệu như giày vải, nhựa, da tổng hợp hay da thật. 4.9. Vệ sinh giày trắng ST Ohisama: Ohisama là dung dịch vệ sinh trung tính, dịu nhẹ cho da, được khuyến nghị sử dụng tẩy rửa giày dép trẻ em. Sản phẩm dùng để tẩy, làm sạch các vết bám bẩn trên giày vải, giày nhựa, các loại da tổng hợp. Lưu ý, không sử dụng cho da thật. Dung dịch vệ sinh giày sneaker ST Ohisama có kết cấu dạng bọt xốp, thẩm thấu sâu vào vải và giúp khử mùi hôi hiệu quả. Hương thơm sản phẩm nhẹ nhàng, không gây khó chịu.  4.10. Chai vệ sinh giày adidas – Footlocker Cleaner:  Nếu bạn đang tìm kiếm một chai vệ sinh giày sneaker hàng hiệu thì Footlocker Cleaner là một lựa chọn tối ưu. Đây là sản phẩm được phát triển bởi nhà sản xuất giày hàng đầu thế giới, với hơn 400 năm kinh nghiệm. Chai vệ sinh giày của họ phù hợp để tẩy rửa khô. Nó được đánh giá là an toàn với nhiều chất liệu. Chai vệ sinh giày này được các chuyên gia khuyên dùng, đặc biệt là cho giày thể thao. 4.11. Bộ vệ sinh giày Crep: Ra đời vào năm 2012, Crep Protect đã trở thành một thương hiệu vệ sinh sneakers hàng đầu. Crep Protect là sản phẩm vệ sinh giày phủ nano, tạo màng bảo vệ chống thấm nước và bụi bẩn cho đôi giày của bạn. Cung cấp những sản phẩm không quá khác biệt, nhưng rõ ràng Crep Protect mang lại nhiều sản phẩm thú vị hơn nhiều. Một bộ vệ sinh giày Crep đầy đủ bao gồm: 1 lọ vệ sinh giày Crep 100ml, 1 bàn chải mềm cao cấp (premium brush), 1 khăn lau cotton mềm thấm hút ẩm, 1 khay đựng nước và 1 túi đựng nhỏ gọn. Theo ước tính, một chai dung dịch Crep Protect có thể vệ sinh cho 40 – 50 đôi giày.  4.12. Gel vệ sinh giày Jason Markk: Jason Markk, thương hiệu dung dịch vệ sinh sneakers cao cấp tốt nhất hiện nay. Với hơn 10 năm kinh nghiệm, Jason đã có quá nhiều kinh nghiệm trong việc phát triển các sản phẩm dành cho vệ sinh giày. Trong 1 chai dung dịch vệ sinh giày sneaker Jason Markk chứa 98,3% thành phần tự nhiên. Không cần lo lắng về việc hư hại chất liệu hay màu sắc của giày và thân thiện với sức khỏe người dùng.",
+            "an_hien": "1",
+            "hinh": "images/blog/12-chai-ve-sinh-giay-dang-dung-nhat-khong-the-bo-qua.jpg",
+            "luot_xem": "233",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "1"
+        },
+        {
+            "id": "8",
+            "tieu_de": "Cách Buộc Dây Giày Một Cách Chuyên Nghiệp và Sáng Tạo",
+            "slug": "cach-buoc-day-giay-mot-cach-chuyen-nghiep-va-sang-tao.html",
+            "mo_ta": "Buộc dây giày có thể là một quá trình đơn giản nhưng cũng có thể tạo nên một phong cách riêng biệt cho bản thân bạn. Trong hướng dẫn chi tiết này, chúng tôi sẽ chỉ cho bạn cách buộc dây giày một cách chuyên nghiệp và sáng tạo",
+            "noi_dung": "<p>Buộc d&acirc;y gi&agrave;y kh&ocirc;ng chỉ l&agrave; một c&ocirc;ng việc đơn giản, m&agrave; c&ograve;n c&oacute; thể l&agrave; một c&aacute;ch để thể hiện phong c&aacute;ch v&agrave; sự c&aacute; nh&acirc;n. Trong b&agrave;i viết n&agrave;y, ch&uacute;ng t&ocirc;i sẽ hướng dẫn bạn c&aacute;ch buộc d&acirc;y gi&agrave;y một c&aacute;ch chuy&ecirc;n nghiệp v&agrave; s&aacute;ng tạo. Bất kể bạn đang sở hữu đ&ocirc;i gi&agrave;y thể thao, gi&agrave;y da, hoặc gi&agrave;y bốt, việc buộc d&acirc;y một c&aacute;ch độc đ&aacute;o c&oacute; thể biến ch&uacute;ng th&agrave;nh một t&aacute;c phẩm nghệ thuật v&agrave; phản &aacute;nh c&aacute; t&iacute;nh ri&ecirc;ng của bạn. H&atilde;y c&ugrave;ng t&igrave;m hiểu những c&aacute;ch buộc d&acirc;y gi&agrave;y phổ biến v&agrave; th&uacute; vị dưới đ&acirc;y. 1. Buộc D&acirc;y Gi&agrave;y Cơ Bản: Bước 1: Chuẩn bị Chọn đ&ocirc;i gi&agrave;y bạn muốn buộc d&acirc;y. Đảm bảo d&acirc;y gi&agrave;y đủ d&agrave;i để thực hiện c&aacute;c bước sau. Bước 2: L&agrave;m sạch gi&agrave;y Trước ti&ecirc;n, h&atilde;y đảm bảo rằng đ&ocirc;i gi&agrave;y của bạn đ&atilde; được l&agrave;m sạch v&agrave; kh&ocirc; ho&agrave;n to&agrave;n. Bước 3: Đặt d&acirc;y Đặt đầu d&acirc;y v&agrave;o lỗ ở gần ng&oacute;n ch&acirc;n v&agrave; đưa d&acirc;y qua lỗ c&ograve;n lại. K&eacute;o d&acirc;y qua tr&ecirc;n đ&ocirc;i gi&agrave;y v&agrave; đặt ch&uacute;ng qua lỗ ph&iacute;a tr&ecirc;n. Bước 4: Buộc d&acirc;y K&eacute;o chặt d&acirc;y để đảm bảo gi&agrave;y vừa vặn với đ&ocirc;i ch&acirc;n của bạn. Buộc d&acirc;y ở ph&iacute;a tr&ecirc;n bằng c&aacute;ch tạo một n&uacute;t thường. 2. Buộc D&acirc;y Gi&agrave;y Thể Thao: Bước 1: Chuẩn bị Chọn đ&ocirc;i gi&agrave;y thể thao của bạn. Đảm bảo d&acirc;y đủ d&agrave;i để thực hiện việc buộc d&acirc;y đặc biệt n&agrave;y. Bước 2: Bắt đầu Đặt d&acirc;y v&agrave;o lỗ dưới c&ugrave;ng, sao cho hai đầu của d&acirc;y ở c&ugrave;ng một chiều. K&eacute;o d&acirc;y qua tr&ecirc;n v&agrave; đặt ch&uacute;ng v&agrave;o lỗ ph&iacute;a tr&ecirc;n. Bước 3: Tiến h&agrave;nh buộc d&acirc;y Tạo một v&ograve;ng tr&ograve;n với d&acirc;y b&ecirc;n tr&ecirc;n, sau đ&oacute; đặt đầu d&acirc;y v&agrave;o v&ograve;ng tr&ograve;n đ&oacute;. K&eacute;o d&acirc;y qua v&ograve;ng tr&ograve;n một lần nữa. Bước 4: Kết th&uacute;c K&eacute;o d&acirc;y chặt để đảm bảo gi&agrave;y vừa vặn với ch&acirc;n bạn. Buộc n&uacute;t ở ph&iacute;a tr&ecirc;n để giữ cho d&acirc;y giữ chặt. 3. Buộc D&acirc;y Gi&agrave;y Độc Đ&aacute;o: Ngo&agrave;i c&aacute;c c&aacute;ch buộc d&acirc;y cơ bản, c&ograve;n c&oacute; nhiều c&aacute;ch buộc d&acirc;y độc đ&aacute;o kh&aacute;c nhau như c&aacute;ch buộc &quot;Lattice&quot;, &quot;Zipper&quot;, &quot;Double Back&quot;, v&agrave; nhiều phong c&aacute;ch kh&aacute;c. H&atilde;y thử nghiệm v&agrave; tạo ra phong c&aacute;ch ri&ecirc;ng của bạn. Kết Luận: Buộc d&acirc;y gi&agrave;y c&oacute; thể trở th&agrave;nh một nghệ thuật ri&ecirc;ng, v&agrave; đ&ocirc;i khi n&oacute; c&oacute; thể thay đổi ho&agrave;n to&agrave;n diện mạo của đ&ocirc;i gi&agrave;y. Hy vọng b&agrave;i viết n&agrave;y đ&atilde; gi&uacute;p bạn hiểu r&otilde; hơn c&aacute;ch buộc d&acirc;y gi&agrave;y một c&aacute;ch chuy&ecirc;n nghiệp v&agrave; s&aacute;ng tạo. H&atilde;y thử nghiệm v&agrave; tạo n&ecirc;n phong c&aacute;ch độc đ&aacute;o cho đ&ocirc;i gi&agrave;y của bạn!</p>",
+            "an_hien": "1",
+            "hinh": "images/blog/cach-buoc-day-giay-mot-cach-chuyen-nghiep-va-sang-tao.jpg",
+            "luot_xem": "632",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "1"
+        },
+        {
+            "id": "9",
+            "tieu_de": "Nike - Hành Trình Phát Triển Từ Ý Tưởng Đến Đại Hãng Thể Thao",
+            "slug": "nike-hanh-trinh-phat-trien-tu-y-tuong-den-dai-hang-the-thao.html",
+            "mo_ta": "Nike - Hãng giày thể thao hàng đầu có nguồn gốc từ một bài luận đại học. Xem cách họ đã vượt qua mọi thách thức để trở thành biểu tượng thể thao và sự sáng tạo.",
+            "noi_dung": "Nike là một trong những hãng giày thể thao hàng đầu trên thế giới và câu chuyện về sự ra đời của họ từ một bài luận trong trường đại học đã trở thành một trường hợp kinh doanh kỳ diệu. Trong bài viết này, chúng ta sẽ tìm hiểu về hành trình ấn tượng của Nike từ khi thành lập cho đến khi trở thành một biểu tượng thể thao toàn cầu. 1.Sự Khởi Đầu Từ Một Ý Tưởng Nike được sáng lập bởi Phil Knight và Bill Bowerman vào năm 1964 tại Eugene, Oregon, Hoa Kỳ. Ban đầu, họ hoạt động dưới cái tên \"Blue Ribbon Sports\"và tập trung vào việc nhập khẩu giày thể thao từ Nhật Bản. Tuy nhiên, ý tưởng tạo ra các sản phẩm thể thao chất lượng và đột phá đã luôn ở trong tâm trí của họ. 2.Sự Thành Công Đầu Tiên Nike đã nhanh chóng nổi lên khi họ đổi tên thành Nike, được lấy cảm hứng từ nữ thần chiến thắng Nike của Hy Lạp. Họ cũng đã tạo ra dòng sản phẩm đầu tiên của mình - đôi giày chạy Nike Cortez, một sản phẩm đã thay đổi lịch sử thể thao. 3.Sự Đột Phá Với Swoosh Logo Swoosh nổi tiếng của Nike được tạo ra bởi một sinh viên đại học tên là Carolyn Davidson, và sau đó được mua lại bởi Nike với mức giá $35. Swoosh trở thành biểu tượng của thương hiệu và thể hiện tinh thần chuyên nghiệp, đam mê và chiến thắng. 4.Đối Tác Chiến Lược Một bước ngoặt lớn trong sự phát triển của Nike là việc họ hợp tác với các vận động viên nổi tiếng như Michael Jordan, Kobe Bryant, LeBron James và nhiều ngôi sao thể thao khác. Điều này đã giúp họ xây dựng một danh tiếng mạnh mẽ trong ngành công nghiệp thể thao. 5.Khát Vọng Vượt Qua Giới Hạn Nike không chỉ là một công ty sản xuất giày, họ còn hướng đến mục tiêu khát khao vượt qua giới hạn trong thể thao và sáng tạo. Các sản phẩm và dự án như \"Nike Air\"và \"Nike Flyknit\"là những ví dụ điển hình về việc họ luôn tìm kiếm cách cải tiến và đổi mới. 6.Kết Luận Từ một ý tưởng trong bài luận đại học, Nike đã trở thành một trong những hãng thể thao hàng đầu thế giới, không chỉ về doanh số bán hàng mà còn về tầm ảnh hưởng và ý nghĩa của thương hiệu. Sự hành trình phát triển của Nike là một ví dụ mạnh mẽ về sự kiên nhẫn, tinh thần sáng tạo và cam kết của họ đối với thể thao và cuộc sống. Nếu bạn muốn tìm hiểu thêm về câu chuyện phấn đấu và thành công của Nike, đừng ngần ngại xem xét việc đọc thêm về họ và học hỏi từ sự đổi mới và quyết tâm không ngừng của họ.",
+            "an_hien": "1",
+            "hinh": "images/blog/nike-hanh-trinh-phat-trien-tu-y-tuong-den-dai-hang-the-thao.jpg",
+            "luot_xem": "326",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "2"
+        },
+        {
+            "id": "10",
+            "tieu_de": "Trung Quốc Đứng Đầu Trong Phát Triển Giày Phân Hủy Sinh Học",
+            "slug": "trung-quoc-dung-dau-trong-phat-trien-giay-phan-huy-sinh-hoc.html",
+            "mo_ta": "Trung Quốc đang dẫn đầu trong việc phát triển giày phân hủy sinh học, mang lại giải pháp thân thiện với môi trường cho ngành công nghiệp giày thế giới.",
+            "noi_dung": "Đại học Công nghệ Hóa học Bắc Kinh Chế Tạo Lô Giày Sinh Học Đầu Tiên Có Khả Năng Phân Hủy Hoàn Toàn Vào ngày 16/8, Đại học Công nghệ Hóa học Bắc Kinh (BUCT) đã giới thiệu một bộ sưu tập đặc biệt gồm hơn 500 đôi giày sinh học hoàn toàn mới. Điều đặc biệt về các đôi giày này là chúng có khả năng phân hủy hoàn toàn trong điều kiện ủ phân, mang lại lợi ích lớn cho môi trường. Theo thông tin từ Science Net, một phần quan trọng của đế giày được sản xuất từ chất liệu cao su polyester có nguồn gốc sinh học, mà BUCT đã phát triển độc lập. Các thành phần khác của giày được làm từ sợi gai dầu, sợi tre và vật liệu mủ thân cây ngô. Những chất liệu này không chỉ đảm bảo tính ổn định và sự thoải mái khi sử dụng hàng ngày, mà còn có khả năng phân hủy nhanh chóng trong môi trường ủ phân. Nhóm nghiên cứu do Viện sĩ Zhang Liqun tại Học viện Kỹ thuật Trung Quốc và Giáo sư Wang Zhao tại BUCT dẫn đầu đã thành công trong việc sản xuất thử nghiệm quy mô 1.000 tấn cao su polyester có nguồn gốc sinh học. Điều này mở ra tiềm năng sử dụng rộng rãi của loại cao su này trong việc sản xuất lốp xe, vòng đệm chống dầu, axit polylactic và các sản phẩm khác. Sự ra đời của lô giày phân hủy sinh học này đại diện cho một bước tiến quan trọng trong việc áp dụng công nghệ sinh học để giảm thiểu tác động của ngành công nghiệp thể thao và sản xuất giày đối với môi trường. Đây có thể là một ví dụ mẫu mực để các ngành công nghiệp khác theo đuổi các giải pháp thân thiện với môi trường.",
+            "an_hien": "1",
+            "hinh": "images/blog/trung-quoc-dung-dau-trong-phat-trien-giay-phan-huy-sinh-hoc.jpg",
+            "luot_xem": "271",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "2"
+        },
+        {
+            "id": "11",
+            "tieu_de": "Cách chọn giày chạy bộ",
+            "slug": "cach-chon-giay-chay-bo.html",
+            "mo_ta": "Cách chọn giày chạy bộ là một quyết định quan trọng đối với người yêu thể thao. Bài viết này sẽ hướng dẫn bạn cách lựa chọn đôi giày chạy bộ phù hợp để đảm bảo sự thoải mái và hiệu suất tối ưu trong mọi bước chạy.",
+            "noi_dung": "Cách chọn giày chạy bộ đúng là một phần quan trọng của việc nâng cao hiệu suất và trải nghiệm chạy bộ của bạn. Không phải tất cả giày đều phù hợp cho mọi người, và một đôi giày chạy bộ tốt sẽ giúp tránh những chấn thương không mong muốn. Dưới đây là những yếu tố quan trọng bạn cần xem xét khi chọn giày chạy bộ: 1. Loại Giày: Giày đường trường: Thích hợp cho việc chạy xa trên bề mặt đường trường. Giày trail: Cho những người yêu thích chạy bộ trên địa hình đa dạng như đồi núi, đường mòn. 2. Loại Chân: Chân trung bình: Các đôi giày với đệm ổn định thường phù hợp. Chân phẳng: Giày với hỗ trợ nâng cao cho vùng cổ chân có thể cần thiết. Chân cầu: Đôi giày với thiết kế hỗ trợ cho cầu chân giúp giảm căng cơ và đau chân. 3. Kích Thước và Vừa Vặn: Hãy đảm bảo rằng giày vừa vặn chân của bạn. Điều này đồng nghĩa với việc kiểm tra chiều dài và rộng của giày. Thử giày vào buổi chiều hoặc sau khi bạn đã chạy bộ để đảm bảo rằng chân đã sưng lên một chút, giống như tình trạng thường xuyên khi chạy. 4. Trọng Lượng: Nếu bạn là người thích cảm giác nhẹ nhàng, hãy chọn giày nhẹ. Nếu bạn cần sự ổn định và hỗ trợ, các đôi giày đa năng có thể là lựa chọn tốt. 5. Loại Bước Chạy: Có người có xu hướng đặt chân lên trước, gót chân hoặc giữa chân. Chọn giày dựa trên cách bạn chạy. 6. Kinh Phí: Xác định một mức giá phù hợp cho bạn và tìm kiếm giày trong khoảng giá đó. Không nên tiết kiệm quá mức về giày chạy bộ, bởi đôi giày phù hợp có thể giảm nguy cơ chấn thương và nâng cao hiệu suất. Nhớ luôn thử giày trước khi mua và tập trung vào cảm giác thoải mái khi chạy. Cách chọn giày chạy bộ đúng có thể là yếu tố quyết định cho thành công và sự thoải mái trong hành trình chạy bộ của bạn.",
+            "an_hien": "1",
+            "hinh": "images/blog/cach-chon-giay-chay-bo.jpg",
+            "luot_xem": "401",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "3"
+        },
+        {
+            "id": "12",
+            "tieu_de": "Tư vấn chọn giày chất lượng với ngân sách hạn chế",
+            "slug": "tu-van-chon-giay-chat-luong-voi-ngan-sach-han-che.html",
+            "mo_ta": "Bài viết này cung cấp những lời khuyên hữu ích về cách chọn và mua giày chất lượng mà vẫn tiết kiệm chi phí, đặc biệt dành cho những người có ngân sách hạn chế. Chúng ta sẽ tìm hiểu cách tận dụng mọi cơ hội để mua giày đẹp và bền bỉ mà không cần phải tiêu quá nhiều tiền.",
+            "noi_dung": "Trong thế giới thời trang, việc sở hữu các đôi giày chất lượng thường đòi hỏi một nguồn tài chính đáng kể. Tuy nhiên, điều quan trọng là bạn không phải hy sinh ngân sách của mình để có được sự thoải mái và phong cách mà giày mang lại. Bài viết \"Tư vấn chọn giày chất lượng với ngân sách hạn chế\"chắc chắn sẽ giúp bạn đối phó với tình hình ngân sách hạn chế mà vẫn tận hưởng sự ấm áp và tự tin từ đôi giày hoàn hảo. Trong bài viết này, chúng tôi sẽ cung cấp những gợi ý chi tiết và chiến lược để bạn tiết kiệm tiền mà không cần phải hy sinh chất lượng. Chúng tôi sẽ tìm hiểu cách phân tích thị trường giày, lựa chọn những thương hiệu có sự kết hợp hoàn hảo giữa giá trị và chất lượng, và cách tận dụng các khuyến mãi, giảm giá và chương trình khuyến mãi để mua sắm thông minh. Ngoài ra, bài viết sẽ đề cập đến việc tìm hiểu về các yếu tố cơ bản khi chọn giày, bao gồm chất liệu, kiểu dáng và mục đích sử dụng. Bằng cách hiểu rõ những điểm quan trọng này, bạn sẽ có khả năng lựa chọn giày thích hợp cho từng tình huống mà không cần phải tiêu quá nhiều tiền. Hãy để chúng tôi hướng dẫn bạn về cách cải thiện bộ sưu tập giày của mình mà vẫn duy trì ngân sách hợp lý. Với bài viết này, bạn sẽ thấy rằng việc tạo nên phong cách và thoải mái không cần phải đắt đỏ, và rất có thể chọn được những đôi giày chất lượng với ngân sách hạn chế.",
+            "an_hien": "1",
+            "hinh": "images/blog/tu-van-chon-giay-chat-luong-voi-ngan-sach-han-che.jpg",
+            "luot_xem": "175",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "3"
+        },
+        {
+            "id": "13",
+            "tieu_de": "Cách chăm sóc và bảo quản giày để kéo dài tuổi thọ của chúng",
+            "slug": "cach-cham-soc-va-bao-quan-giay-de-keo-dai-tuoi-tho-cua-chung.html",
+            "mo_ta": "Hướng dẫn đơn giản và hiệu quả về cách bảo quản và chăm sóc giày để giúp chúng tồn tại lâu hơn và giữ được vẻ đẹp ban đầu. Điều này sẽ không chỉ tiết kiệm tiền mà còn giúp bảo vệ môi trường bằng cách giảm lượng rác thải giày.",
+            "noi_dung": "Giày là một phần quan trọng của phong cách cá nhân và sự thoải mái hàng ngày, nhưng việc chúng ta bảo quản và chăm sóc chúng có thể ảnh hưởng lớn đến tuổi thọ và vẻ ngoại hình của chúng. Bài viết \"Cách chăm sóc và bảo quản giày để kéo dài tuổi thọ của chúng\"cung cấp một loạt hướng dẫn thực tế để bạn có thể duy trì sự tươi mới và đẹp mắt của giày yêu thích mà không cần phải thay đổi chúng quá thường xuyên. Trong bài viết này, chúng tôi tập trung vào các chi tiết quan trọng như cách làm sạch giày đúng cách, cách bảo quản chúng để tránh hỏng hóc sớm, và cách lưu trữ giày một cách tối ưu. Chúng tôi cũng giới thiệu các sản phẩm và công cụ hữu ích để giúp bạn thực hiện quy trình chăm sóc giày một cách hiệu quả. Ngoài việc tiết kiệm tiền, bài viết còn tôn vinh tầm quan trọng của việc giảm lượng rác thải từ việc thay đôi giày quá thường xuyên, một tác nhân quan trọng đối với bảo vệ môi trường. Hãy cùng chúng tôi khám phá những bí quyết và kỹ thuật đơn giản để chăm sóc giày của bạn và kéo dài tuổi thọ của chúng, trong khi vẫn duy trì phong cách và sự thoải mái.",
+            "an_hien": "1",
+            "hinh": "images/blog/cach-cham-soc-va-bao-quan-giay-de-keo-dai-tuoi-tho-cua-chung.jpg",
+            "luot_xem": "283",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "3"
+        },
+        {
+            "id": "14",
+            "tieu_de": "Thế Giới Giày Sneaker - Cuộc Trỗi Dậy Của Các Thương Hiệu Độc Lập",
+            "slug": "the-gioi-giay-sneaker-cuoc-troi-day-cua-cac-thuong-hieu-doc-lap.html",
+            "mo_ta": "Khám phá sự trỗi dậy đầy thú vị của các thương hiệu giày sneaker độc lập. Chúng ta sẽ tìm hiểu về tầm ảnh hưởng và cái tên nổi bật trong thế giới giày sneaker, với những góc nhìn sâu sắc về sự sáng tạo, chất lượng và phong cách độc đáo mà các thương hiệu này mang lại.",
+            "noi_dung": "Bài viết \"Thế Giới Giày Sneaker: Cuộc Trỗi Dậy Của Các Thương Hiệu Độc Lập\"sẽ đưa bạn vào cuộc hành trình sâu sắc để tìm hiểu về sự phát triển và ảnh hưởng của các thương hiệu giày sneaker độc lập trong ngành thời trang. Trong một thời đại mà các tên tuổi lớn thường chiếm ưu thế, những thương hiệu này đã nỗ lực để tự thể hiện và định vị mình bằng cách mang đến sự độc đáo và sáng tạo trong việc sản xuất giày sneaker. Chúng tôi sẽ đồng hành cùng bạn qua những hành trình thành công và câu chuyện về sự sáng tạo không ngừng của các thương hiệu giày này. Từ việc nhấn mạnh vào thiết kế cá nhân độc đáo cho đến quy trình sản xuất chất lượng, họ đã tạo ra những tác phẩm nghệ thuật độc lập, thể hiện sự đa dạng và phong cách trong thế giới giày sneaker. Hãy cùng chúng tôi tìm hiểu về cách những thương hiệu này đã thay đổi cách thế giới nhìn vào giày sneaker và tạo ra sự tôn vinh cho sự độc lập và sáng tạo trong ngành thời trang. Bài viết này sẽ giúp bạn hiểu rõ hơn về cách những gương mặt này đang làm nên sự khác biệt trong thế giới giày sneaker hiện đại. Bài viết này sẽ giúp bạn hiểu rõ hơn về lịch sử, triết lý thiết kế, và tầm ảnh hưởng của những thương hiệu này. Chúng tôi sẽ đi sâu vào các câu chuyện thành công của các thương hiệu, từ việc tạo ra những sản phẩm đột phá cho đến cách họ tạo nên cộng đồng đam mê xung quanh mình. Không chỉ giới thiệu về sự đa dạng và cá tính trong thế giới giày sneaker, bài viết còn nhấn mạnh sự cống hiến của các thương hiệu này trong việc bảo vệ môi trường và giảm lượng rác thải từ việc sản xuất giày thường xuyên. Hãy tham gia cùng chúng tôi trong cuộc hành trình khám phá về sự độc lập, sáng tạo và ảnh hưởng của các thương hiệu giày sneaker độc lập trong ngành thời trang. Chúng tôi sẽ cùng bạn tìm hiểu về nguồn gốc, triết lý thiết kế và cả việc tái thiết giày sneaker theo cách riêng biệt của mỗi thương hiệu. Chúng tôi sẽ đưa bạn qua các câu chuyện thành công và thách thức mà họ đã đối mặt, đồng thời thảo luận về tầm ảnh hưởng lớn mà họ đã tạo ra trong cộng đồng thời trang và giày sneaker. Không chỉ giới thiệu về sự đa dạng và cá tính trong thế giới giày sneaker, bài viết còn nhấn mạnh sự cống hiến của các thương hiệu này trong việc bảo vệ môi trường và giảm lượng rác thải từ việc sản xuất giày thường xuyên. Hãy tham gia cùng chúng tôi trong cuộc hành trình khám phá về sự độc lập, sáng tạo và ảnh hưởng của các thương hiệu giày sneaker độc lập, và cách họ đã biến đổi cả mảng thời trang một cách đáng kinh ngạc. Trong bài viết \"Thế Giới Giày Sneaker: Cuộc Trỗi Dậy Của Các Thương Hiệu Độc Lập,\"chúng tôi đưa bạn đến một cuộc hành trình chi tiết và đầy cảm hứng để khám phá về sự nổi bật và phát triển của các thương hiệu giày sneaker độc lập. Chúng tôi không chỉ tập trung vào việc sáng tạo thiết kế, mà còn khám phá những câu chuyện cá nhân của các nhà sáng lập, những giá trị cốt lõi, và cách họ đã tạo ra cộng đồng đam mê xung quanh sản phẩm của mình. Bài viết không chỉ giới thiệu về sự đa dạng trong thiết kế và phong cách của giày sneaker độc lập, mà còn thảo luận về vai trò xã hội và môi trường mà các thương hiệu này đang đảm nhận. Chúng ta sẽ tìm hiểu về cách họ đặt sự bền vững và bảo vệ môi trường lên hàng đầu, từ việc sử dụng vật liệu tái chế cho đến chiến dịch giảm thiểu lượng rác thải từ sản xuất giày. Hãy tham gia cùng chúng tôi trong cuộc hành trình này để hiểu rõ hơn về sự độc lập, sáng tạo và ảnh hưởng của các thương hiệu giày sneaker độc lập trong ngành thời trang hiện đại, cũng như cách họ đã thay đổi cả cách mà chúng ta nhìn vào thế giới giày sneaker.",
+            "an_hien": "1",
+            "hinh": "images/blog/the-gioi-giay-sneaker-cuoc-troi-day-cua-cac-thuong-hieu-doc-lap.jpg",
+            "luot_xem": "544",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "2"
+        },
+        {
+            "id": "15",
+            "tieu_de": "Các Triển Lãm Giày Sneaker Quốc Tế: Khám Phá Sự Sáng Tạo Và Nghệ Thuật",
+            "slug": "cac-trien-lam-giay-sneaker-quoc-te-kham-pha-su-sang-tao-va-nghe-thuat.html",
+            "mo_ta": "Chúng ta sẽ tìm hiểu về những sự kiện đặc biệt này, nơi mà giày sneaker trở thành tác phẩm nghệ thuật, và các nghệ nhân và nhà thiết kế sáng tạo được tôn vinh.",
+            "noi_dung": "Giày sneaker không chỉ đơn thuần là một sản phẩm thời trang, mà chúng còn trở thành một phần của nghệ thuật và sự sáng tạo. Các triển lãm giày sneaker quốc tế đã từ lâu trở thành một nơi tôn vinh không chỉ sự phát triển của thế giới giày, mà còn là nền tảng để các nghệ sĩ, thiết kế và người yêu giày thể hiện cá tính và tài năng sáng tạo của họ. Điểm đến của Nghệ Thuật Giày Sneaker Các triển lãm giày sneaker quốc tế đưa chúng ta vào một thế giới đầy màu sắc và sự sáng tạo. Đó là nơi mà những đôi giày trở thành tác phẩm nghệ thuật, từ việc tạo hình đến việc thể hiện một câu chuyện. Các nghệ nhân và nhà thiết kế không giới hạn trong việc thể hiện ý tưởng và biến giày sneaker thành một bức tranh nghệ thuật di động. Tầm Ảnh Hưởng Và Cơ Hội Cho Nghệ Sĩ Các triển lãm giày sneaker quốc tế cũng đánh dấu sự tôn vinh của nghệ sĩ, thiết kế và những người có đam mê với giày sneaker. Những người này có cơ hội trình bày tác phẩm của họ và được nhận diện trên phạm vi toàn cầu. Điều này thúc đẩy sự sáng tạo và thúc đẩy các cá nhân tạo ra những bộ sưu tập độc đáo và góp phần làm phong phú thế giới giày sneaker. Khám Phá Các Triển Lãm Giày Sneaker Nổi Bật Các triển lãm giày sneaker quốc tế nổi tiếng trên toàn thế giới với sự tham gia của các thương hiệu nổi tiếng, nghệ nhân độc lập và những bộ sưu tập độc đáo. Một số sự kiện tiêu biểu bao gồm Sneaker Con ở Mỹ, London Sneaker Con, Sneakerness ở châu Âu, và nhiều triển lãm khác tại châu Á. Các triển lãm này không chỉ giới thiệu những thiết kế mới và tạo dấu ấn trong ngành thời trang giày sneaker, mà còn là cơ hội tuyệt vời để người yêu giày sneaker gặp gỡ và trao đổi kiến thức. Xu Hướng Thời Trang Mới Các triển lãm giày sneaker cũng thường là nơi xuất hiện các xu hướng thời trang mới. Những bộ sưu tập độc đáo và việc kết hợp giày sneaker với các trang phục sẽ là nguồn cảm hứng cho người yêu thời trang và người làm trong ngành thời trang. Chúng ta thường thấy những xu hướng mới trong việc sử dụng màu sắc, chất liệu và kiểu dáng xuất phát từ các triển lãm giày sneaker quốc tế. Kết Luận Các triển lãm giày sneaker quốc tế không chỉ là nơi để người hâm mộ giày tìm hiểu về lịch sử và phát triển của giày sneaker, mà còn là nền tảng cho sự sáng tạo, tôn vinh nghệ thuật và tạo cơ hội cho các nghệ sĩ và nhà thiết kế. Hãy cùng tham gia vào cuộc hành trình khám phá sự sáng tạo và nghệ thuật trong thế giới giày sneaker thông qua các triển lãm quốc tế độc đáo này.",
+            "an_hien": "1",
+            "hinh": "images/blog/cac-trien-lam-giay-sneaker-quoc-te-kham-pha-su-sang-tao-va-nghe-thuat.jpg",
+            "luot_xem": "382",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "2"
+        },
+        {
+            "id": "16",
+            "tieu_de": "Hướng Dẫn Tối Ưu Hóa Sự Thoải Mái Khi Mang Giày Sneaker",
+            "slug": "huong-dan-toi-uu-hoa-su-thoai-mai-khi-mang-giay-sneaker.html",
+            "mo_ta": "Khám phá cách tạo sự thoải mái tối đa khi đội giày sneaker yêu thích của bạn. Chúng tôi chia sẻ các bí quyết về chọn size, tùy chỉnh lớp đệm và thực hiện những điều cần thiết để giúp bạn cảm thấy thoải mái mỗi khi mang giày sneaker.",
+            "noi_dung": "Nhắc đến giày sneaker, chúng ta thường nghĩ ngay đến sự thoải mái và phong cách thể thao. Tuy nhiên, thoải mái thực sự không chỉ đến từ thiết kế của đôi giày, mà còn phụ thuộc vào cách bạn chăm sóc chúng và điều chỉnh cho phù hợp với đôi chân của mình. Bài viết này sẽ hướng dẫn bạn cách tối ưu hóa sự thoải mái khi mang giày sneaker để trải nghiệm tốt nhất. 1. Chọn Size Đúng Không gì quan trọng hơn việc chọn size đúng cho đôi giày sneaker của bạn. Việc mang giày quá chật hoặc quá rộng có thể gây ra các vấn đề về thoải mái và sức khỏe của chân. Hãy đo đôi chân của bạn và tuân thủ hướng dẫn về size của nhãn hiệu giày để chọn size phù hợp. 2. Điều Chỉnh Lớp Đệm Một phần quan trọng của sự thoải mái trong giày sneaker là lớp đệm bên trong. Hãy kiểm tra xem liệu giày của bạn có đệm đúng cách không. Nếu không, hãy sử dụng lớp đệm bổ sung hoặc lựa chọn giày có công nghệ đệm tốt để giảm áp lực lên chân và cải thiện sự thoải mái. 3. Chăm Sóc Đôi Chân Của Bạn Chăm sóc đôi chân là một phần quan trọng để cải thiện sự thoải mái khi mang giày sneaker. Hãy giữ chân sạch sẽ, điều này sẽ ngăn ngừng gây mùi và các vấn đề khác. Thêm vào đó, tập thực hiện các bài tập tăng cường cơ bắp chân để làm chân mạnh mẽ hơn và giảm áp lực. 4. Thực Hiện Các Điều Chỉnh Riêng Mỗi người có đặc điểm chân riêng. Bạn có thể cần phải thử nhiều cách điều chỉnh khác nhau, như thay đổi cách buộc dây giày hoặc sử dụng đệm dán chân, để tối ưu hóa thoải mái. Hãy thử nghiệm và điều chỉnh cho đến khi bạn tìm ra cách tốt nhất cho đôi chân của mình. 5. Lựa Chọn Giày Sneaker Phù Hợp Với Hoạt Động Cuối cùng, hãy chọn đúng đôi giày sneaker phù hợp với hoạt động của bạn. Có rất nhiều loại giày sneaker được thiết kế cho các mục đích cụ thể, như chạy bộ, đi bộ, hoặc thậm chí thời trang. Đảm bảo bạn chọn đôi giày phù hợp với nhu cầu sử dụng sẽ cải thiện sự thoải mái. Tối ưu hóa sự thoải mái khi mang giày sneaker không chỉ làm cho trải nghiệm thể thao và hàng ngày tốt hơn mà còn bảo vệ sức khỏe của đôi chân của bạn. Hãy tuân thủ những hướng dẫn trên để tận hưởng mọi khoảnh khắc với đôi giày sneaker yêu thích của bạn.",
+            "an_hien": "1",
+            "hinh": "images/blog/huong-dan-toi-uu-hoa-su-thoai-mai-khi-mang-giay-sneaker.jpg",
+            "luot_xem": "178",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "3"
+        },
+        {
+            "id": "17",
+            "tieu_de": "Vì sao Adidas lại sử dụng đến 4 logo khác nhau?",
+            "slug": "vi-sao-adidas-lai-su-dung-den-4-logo-khac-nhau.html",
+            "mo_ta": "Từ một doanh nghiệp gia đình nhỏ, Adidas đã phát triển thành nhà sản xuất đồ thể thao lớn thứ hai trên thế giới. Chiến lược xây dựng thương hiệu với tầm nhìn tương lai đóng một vai trò rất lớn trong thành công của công ty. Trong bài viết này, chúng ta sẽ xem xét cách gã khổng lồ ngành sneaker toàn cầu thành công trong việc liên tục thiết kế lại logo mang tính biểu tượng của mình trong khi vẫn trung thành với bản sắc thương hiệu vốn có.",
+            "noi_dung": "Logo đầu tiên Trong tâm trí của hàng triệu khách hàng, Adidas gắn liền với logo ba sọc. Không có gì đáng ngạc nhiên vì công ty đã giữ đúng biểu tượng hình ảnh của mình kể từ năm 1949. Trên logo đầu tiên của Adidas, có một chiếc giày chạy bộ với đinh nhọn được treo giữa hai đầu dài của chữ d. Đến đầu những năm 70, logo của Adidas có ba sọc song song. Như là kết quả của chiến dịch đổi logo năm 1971, công ty đã giới thiệu một biểu tượng với hình cây lá gai. Năm 1991, công chúng thấy một phiên bản logo mới – ba sọc nghiêng giống như một ngọn núi. Còn logo Adidas như chúng ta biết ngày nay được thiết kế vào đầu những năm 2000 và có hình tròn được cắt ngang bởi ba đường cong.",
+            "an_hien": "1",
+            "hinh": "images/blog/vi-sao-adidas-lai-su-dung-den-4-logo-khac-nhau.jpg",
+            "luot_xem": "151",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "1"
+        },
+        {
+            "id": "18",
+            "tieu_de": "Thị trường sneaker được định giá 79 tỷ USD",
+            "slug": "thi-truong-sneaker-duoc-dinh-gia-79-ty-usd.html",
+            "mo_ta": "Ngày 22/5 vừa qua, Zingnew đưa tin dựa vào thống kê của Statista rằng thị trường sneaker trên toàn cầu từ năm 2020 đến năm 2026 được định giá khoảng 29 tỷ USD. Thậm chí, sau khoảng 5 năm nữa, giá trị có thể lên tới con số 119,5 tỷ USD.",
+            "noi_dung": "Nhu cầu giày thể thao tăng lên Trong vài năm trở lại đây, nhu cầu tìm mua và sở hữu giày thể thao tăng lên đáng kể. Có thể nói đây là kết quả của sự nhận thức về vấn đề chăm lo sức khỏe của bản thân, đặc biệt vào thời điểm môi trường ô nhiễm, dịch bệnh diễn ra trên toàn cầu. Người tiêu dùng bắt đầu tìm kiếm những sản phẩm thích hợp cho hoạt động thể thao như chạy, đi bộ, luyện tập các môn thể thao khó hơn như là bóng rổ, bóng đá,…",
+            "an_hien": "1",
+            "hinh": "images/blog/thi-truong-sneaker-duoc-dinh-gia-79-ty-usd.jpg",
+            "luot_xem": "446",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "1"
+        },
+        {
+            "id": "19",
+            "tieu_de": "Tips buộc dây giày Nike Air Force 1 vừa đẹp vừa chất",
+            "slug": "tips-buoc-day-giay-nike-air-force-1-vua-dep-vua-chat.html",
+            "mo_ta": "Tuy dây giày chỉ đóng một phần nhỏ trong tổng thể thiết kế của sneaker nhưng đây cũng là vị trí ăn điểm nhất của bạn, đặc biệt với những đôi giày có vẻ ngoài cứng cáp như AF1. Vậy nên trong bài viết này, Sneaker Daily sẽ gửi đến bạn một số cách buộc dây giày Nike Air Force 1 nhé!",
+            "noi_dung": "Cách buộc Criss-Cross Bước 1: Xỏ dây giày vào hàng lỗ đầu tiên (tính từ mũi giày), bạn hãy đảm bảo hai bên dây giày bằng nhau và không bị xoắn. Bước 2: Vắt chéo hai dây và luồn qua lỗ đối diện liền kề theo chiều từ ngoài vào trong để tạo nút vắt chéo trên. Bước 3: Tiếp tục vắt chéo hai dây lại, luồn vào lỗ đối diện liền kề nhưng chiều sẽ từ trong ra ngoài để tạo nút vắt chéo dưới. Bước 4: Lặp lại xen kẽ bước 2 rồi đến bước 3 cho đến lỗ cuối cùng, thắt cố định ở phía bên dưới lưỡi gà.",
+            "an_hien": "1",
+            "hinh": "images/blog/tips-buoc-day-giay-nike-air-force-1-vua-dep-vua-chat.jpg",
+            "luot_xem": "286",
+            "hot": "0",
+            "ngay": "2023-11-07",
+            "id_loai": "1"
+        }
+    ]
+}
