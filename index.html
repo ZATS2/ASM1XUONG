@@ -127,28 +127,9 @@
 
       <h5 class="cat-list-title">Tìm kiếm</h5>
 
-      <ul class="cat-list">
-        <li class="cat-list-item">
-          <a href="#" title="Mobile Phones">CPU</a>
-        </li>
-        <li class="cat-list-item">
-          <a href="#" title="Smart Watches">Main</a>
-        </li>
-        <li class="cat-list-item">
-          <a href="#" title="Headphones">VGA</a>
-        </li>
-        <li class="cat-list-item">
-          <a href="#" title="Accessories">CASE</a>
-        </li>
-        <li class="cat-list-item">
-          <a href="#" title="Monitors">SSD</a>
-        </li>
-        <li class="cat-list-item">
-          <a href="#" title="Speakers">Nguồn</a>
-        </li>
-        <li class="cat-list-item">
-          <a href="#" title="Memory Cards">Ram</a>
-        </li>
+      <ul class="cat-list" id="loai">
+        <div id="data"> </div>
+        
       </ul>
 
     </div>
@@ -375,23 +356,6 @@
     </div>
     <div class="swiper-pagination position-absolute text-center"></div>
   </section>
-  <section id="smart-watches" class="product-store padding-large position-relative">
-    <div class="container">
-      <div class="row">
-        <div class="display-header d-flex justify-content-between pb-3">
-          <h2 class="display-7 text-dark text-uppercase">PC gaming
-          </h2>
-          <div class="btn-right">
-            <a href="shop.html" class="btn btn-medium btn-normal text-uppercase">Go to Shop</a>
-          </div>
-        </div>
-        <div class="swiper product-swiper" id="sphot">
-          <div class="swiper-wrapper" id="data">
-          </div>
-        </div>
-      </div>
-      <div class="swiper-pagination position-absolute text-center"></div>
-  </section>
 
   <section class="padding-large">
     <div class="container">
@@ -416,69 +380,45 @@
               <use xlink:href="#chevron-left" />
             </svg>
           </div>
-          <div class="swiper testimonial-swiper">
+          <div class="swiper testimonial-swiper" >
             <div class="quotation text-center">
               <svg class="quote">
                 <use xlink:href="#quote" />
               </svg>
             </div>
+            <div>
             <div class="swiper-wrapper">
-              <div class="swiper-slide text-center d-flex justify-content-center">
-                <div class="review-item col-md-10">
-                  <i class="icon icon-review"></i>
-                  <blockquote>“Tempus oncu enim pellen tesque este pretium in neque, elit morbi sagittis lorem habi
-                    mattis Pellen tesque pretium feugiat vel morbi suspen dise sagittis lorem habi tasse morbi.”
-                  </blockquote>
-                  <div class="rating">
-                    <svg class="star star-fill">
-                      <use xlink:href="#star-fill"></use>
-                    </svg>
-                    <svg class="star star-fill">
-                      <use xlink:href="#star-fill"></use>
-                    </svg>
-                    <svg class="star star-fill">
-                      <use xlink:href="#star-fill"></use>
-                    </svg>
-                    <svg class="star star-half">
-                      <use xlink:href="#star-half"></use>
-                    </svg>
-                    <svg class="star star-empty">
-                      <use xlink:href="#star-empty"></use>
-                    </svg>
-                  </div>
-                  <div class="author-detail">
-                    <div class="name text-dark text-uppercase pt-2">Emma Chamberlin</div>
-                  </div>
-                </div>
-              </div>
-              <div class="swiper-slide text-center d-flex justify-content-center">
-                <div class="review-item col-md-10">
-                  <i class="icon icon-review"></i>
-                  <blockquote>“A blog is a digital publication that can complement a website or exist independently. A
-                    blog may include articles, short posts, listicles, infographics, videos, and other digital content.”
-                  </blockquote>
-                  <div class="rating">
-                    <svg class="star star-fill">
-                      <use xlink:href="#star-fill"></use>
-                    </svg>
-                    <svg class="star star-fill">
-                      <use xlink:href="#star-fill"></use>
-                    </svg>
-                    <svg class="star star-fill">
-                      <use xlink:href="#star-fill"></use>
-                    </svg>
-                    <svg class="star star-half">
-                      <use xlink:href="#star-half"></use>
-                    </svg>
-                    <svg class="star star-empty">
-                      <use xlink:href="#star-empty"></use>
-                    </svg>
-                  </div>
-                  <div class="author-detail">
-                    <div class="name text-dark text-uppercase pt-2">Jennie Rose</div>
+              <div class="swiper-slide text-center d-flex justify-content-center" >
+                <div class="swiper-slide text-center d-flex justify-content-center">
+                  <div class="review-item col-md-10">
+                    <i class="icon icon-review"></i>
+                    <blockquote>“A blog is a digital publication that can complement a website or exist independently. A
+                      blog may include articles, short posts, listicles, infographics, videos, and other digital content.”
+                    </blockquote>
+                    <div class="rating">
+                      <svg class="star star-fill">
+                        <use xlink:href="#star-fill"></use>
+                      </svg>
+                      <svg class="star star-fill">
+                        <use xlink:href="#star-fill"></use>
+                      </svg>
+                      <svg class="star star-fill">
+                        <use xlink:href="#star-fill"></use>
+                      </svg>
+                      <svg class="star star-half">
+                        <use xlink:href="#star-half"></use>
+                      </svg>
+                      <svg class="star star-empty">
+                        <use xlink:href="#star-empty"></use>
+                      </svg>
+                    </div>
+                    <div class="author-detail">
+                      <div class="name text-dark text-uppercase pt-2">Jennie Rose</div>
+                    </div>
                   </div>
                 </div>
               </div>
+              
             </div>
           </div>
           <div class="swiper-icon swiper-arrow swiper-arrow-next position-absolute d-flex align-items-center">
@@ -640,6 +580,8 @@
   let loai_html = await lay_loai();
   let sp_moi_html = await lay_sp_moi(6);
   let bai_viet_html = await lay_bai_viet_moi(6);
+
+  document.querySelector("#loai #data").innerHTML = loai_html;
   document.querySelector("#spmoi #data").innerHTML = sp_moi_html;
   document.querySelector("#bai_viet_moi #data").innerHTML = bai_viet_html;
   document.querySelector("#sphot #data").innerHTML = await lay_sp_hot(6);

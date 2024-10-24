@@ -2,9 +2,9 @@ const URL_API = `http://localhost:3000`;
 const lay_loai = async () => {
     let loai_arr;
     loai_arr = await fetch(URL_API + `/loai`).then(res => res.json()).then(d => d);
-    let str = `<li><a href="index.html">Trang chủ</a></li>`;
+    let str = ``;
     loai_arr.forEach(loai => {
-        str += `<li><a href="sptrongloai.html?id=${loai.id}"> ${loai.ten_loai} </a></li>`;
+        str += `<li class="cat-list-item"><a href="sptrongloai.html?id=${loai.id}"> ${loai.ten_loai} </a></li>`;
     });
     return `<ul>${str}</ul>`;
 };
@@ -103,12 +103,59 @@ const lay_binh_luan = async (so_bl = 6) => {
     let bl_arr;
     bl_arr = await fetch(url).then(res => res.json()).then(d => d);
     let str = ``;
-    bl_arr.forEach(bl => str += `<div class="bl">
-        <h5>${bl.ho_ten}  
-            <span> ${new Date(bl.ngay).toLocaleDateString("vi")} ${new Date(bl.ngay).toLocaleTimeString("vi")} </span>
-        </h5>
-        <p>${bl.noi_dung}</p>
-    </div>`);
+    bl_arr.forEach(bl => str += ` <div class="review-content position-relative">
+          <div class="swiper-icon swiper-arrow swiper-arrow-prev position-absolute d-flex align-items-center">
+            <svg class="chevron-left">
+              <use xlink:href="#chevron-left" />
+            </svg>
+          </div>
+          <div class="swiper testimonial-swiper" >
+            <div class="quotation text-center">
+              <svg class="quote">
+                <use xlink:href="#quote" />
+              </svg>
+            </div>
+            <div>
+            <div class="swiper-wrapper">
+              <div class="swiper-slide text-center d-flex justify-content-center" >
+                <div class="swiper-slide text-center d-flex justify-content-center">
+                  <div class="review-item col-md-10">
+                    <i class="icon icon-review"></i>
+                    <blockquote>“${bl.noi_dung}”
+                    </blockquote>
+                    <div class="rating">
+                      <svg class="star star-fill">
+                        <use xlink:href="#star-fill"></use>
+                      </svg>
+                      <svg class="star star-fill">
+                        <use xlink:href="#star-fill"></use>
+                      </svg>
+                      <svg class="star star-fill">
+                        <use xlink:href="#star-fill"></use>
+                      </svg>
+                      <svg class="star star-half">
+                        <use xlink:href="#star-half"></use>
+                      </svg>
+                      <svg class="star star-empty">
+                        <use xlink:href="#star-empty"></use>
+                      </svg>
+                    </div>
+                    <div class="author-detail">
+                      <div class="name text-dark text-uppercase pt-2">${bl.ho_ten}</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </div>
+          <div class="swiper-icon swiper-arrow swiper-arrow-next position-absolute d-flex align-items-center">
+            <svg class="chevron-right">
+              <use xlink:href="#chevron-right" />
+            </svg>
+          </div>
+        </div>
+      </div>`);
     return str;
 };
 export { lay_loai, lay_sp_moi, lay_sp_hot, lay_bai_viet_moi, lay_binh_luan, getProductIDFromURL };
